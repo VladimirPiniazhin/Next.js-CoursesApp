@@ -1,0 +1,20 @@
+.up {
+	width: 100px;
+	height: 100px;
+    border-radius: 10px;
+	bottom: 30px;
+	right: 30px;
+	cursor: pointer;
+	position: fixed;
+	border: none;
+	background-color: transparent;
+	
+}
+
+.up svg {
+	fill: var(--primary);
+}
+
+.up:hover svg {
+	fill: var(--primary-hover);
+}
