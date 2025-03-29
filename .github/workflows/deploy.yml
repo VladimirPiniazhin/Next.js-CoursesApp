@@ -33,6 +33,8 @@ jobs:
       run: |
         ssh ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }} "
          cd /opt/docker/courses-app &&
+         export DOCKER_CLIENT_TIMEOUT=600 &&
+         export COMPOSE_HTTP_TIMEOUT=600 &&
          docker-compose down --rmi local --remove-orphans &&
          docker-compose up -d --build
         "

@@ -5,9 +5,15 @@ services:
       dockerfile: Dockerfile
       args:
         - NEXT_PUBLIC_DOMAIN=https://courses-top.ru
+      shm_size: 1gb
     ports:
       - "80:3000"
     environment:
       - NEXT_PUBLIC_DOMAIN=https://courses-top.ru
+      - NODE_ENV=production
+    deploy:
+      resources:
+        limits:
+          memory: 2G
     restart: unless-stopped
 
