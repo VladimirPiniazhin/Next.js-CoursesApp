@@ -1,0 +1,38 @@
+name: Deploy to Remote Server
+
+on:
+  push:
+    branches:
+      - main 
+
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup SSH
+      uses: webfactory/ssh-agent@v0.5.3
+      with:
+        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+    - name: Add Remote Host to known_hosts
+      run: |
+        mkdir -p ~/.ssh
+        ssh-keyscan -H ${{ secrets.REMOTE_HOST }} >> ~/.ssh/known_hosts
+
+    
+    - name: Sync repository to remote server
+      run: |
+        rsync -avz --update --delete-after --exclude='.git' ./ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/opt/docker/courses-app/
+
+    - name: Deploy application
+      run: |
+        ssh ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }} "
+         cd /opt/docker/courses-app &&
+         docker-compose down --rmi local --remove-orphans &&
+         docker-compose up -d --build
+        "
