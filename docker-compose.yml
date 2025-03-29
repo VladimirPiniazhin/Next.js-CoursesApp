@@ -7,5 +7,13 @@ services:
       - "80:3000"
     environment:
       - NEXT_PUBLIC_DOMAIN=https://courses-top.ru
+      - NODE_TLS_REJECT_UNAUTHORIZED=0
     restart: unless-stopped
+    volumes:
+      - ./public:/app/public
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    dns:
+      - 8.8.8.8
+      - 1.1.1.1
 
