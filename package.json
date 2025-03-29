@@ -4,22 +4,38 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "debug": "set NODE_OPTIONS=--inspect=9229 && next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "stylelint": "stylelint \"**/*.css\" --fix",
+    "prepare": "husky install"
   },
   "dependencies": {
+    "classnames": "^2.5.1",
+    "date-fns": "^4.1.0",
+    "framer-motion": "^12.6.2",
+    "next": "15.2.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.2.2"
+    "react-hook-form": "^7.54.2"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
+    "@stylistic/stylelint-plugin": "^3.1.2",
+    "@svgr/webpack": "^8.1.0",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "cross-env": "^7.0.3",
     "eslint": "^9",
     "eslint-config-next": "15.2.2",
-    "@eslint/eslintrc": "^3"
+    "eslint-plugin-react": "^7.37.4",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "husky": "^8.0.0",
+    "stylelint": "^16.16.0",
+    "stylelint-config-standard": "^37.0.0",
+    "stylelint-order": "^6.0.4",
+    "typescript": "^5"
   }
 }

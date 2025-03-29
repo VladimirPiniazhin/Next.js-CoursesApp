@@ -1,0 +1,1216 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Htag/Htag.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.Htag_h1__JRc3a {
+	font-size: 26px;
+	font-weight: 500;
+	line-height: 35px;
+}
+
+.Htag_h2__ZnbzO {
+	font-size: 22px;
+	font-weight: 500;
+	line-height: 30px;
+	margin-bottom: 25px;
+	margin-top: 50px;
+
+}
+
+.Htag_h3__zc7qQ {
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 27px;
+}
+
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Button/Button.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.Button_button__mg_cR {
+    display: inline-flex;
+    box-sizing: border-box;
+    padding: 10px;
+    cursor: pointer;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: all 0.2s;
+    align-items: center;
+    justify-content: center;
+}
+
+.Button_primary__PFIP8 {
+    color: var(--white);
+    background-color: var(--primary);
+}
+
+.Button_primary__PFIP8:hover {
+    background-color: var(--primary-hover);
+}
+
+
+.Button_ghost__VE_C_ {
+    color: var(--black);
+    background-color: transparent;
+    border: 1px solid var(--grey-light);
+
+}
+
+.Button_ghost__VE_C_:hover {
+    color: var(--white);
+    background-color: var(--primary-hover);
+}
+
+
+.Button_arrow__9H3gW {
+    display: inline-flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.Button_arrow__9H3gW svg {
+    fill: currentColor;
+    display: block;
+    transform-box: fill-box;
+    transform-origin: center;
+}
+
+.Button_down__B10xD {
+    transform: rotate(90deg);
+    transition: all 0.2s;
+}
+
+
+
+
+
+/*!*********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/P/P.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************/
+.P_p__UMfTO {
+	margin: 0;
+}
+
+.P_small__spyaj {
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+.P_medium__1cx_P {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+}
+
+.P_large__hnPuv {
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 29px;
+}
+
+
+/*!*************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Tag/Tag.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************/
+.Tag_tag__9IK3Z {
+	display: inline-block;
+	box-sizing: border-box;
+	margin-right: 5px;
+	border-radius: 20px;
+	margin-top: 5px;
+}
+
+.Tag_small__Nmmlb {
+	padding: 5px 10px;
+	font-size: 12px;
+	line-height: 12px;
+}
+
+.Tag_medium__Lhql_ {
+	padding: 5px 10px;
+	font-size: 14px;
+	line-height: 14px;
+}
+
+.Tag_ghost__zlyRm {
+	border: 1px solid var(--grey-light);
+}
+
+.Tag_red__H5y0H {
+	background: #DE0000;
+	color: var(--white);
+}
+
+.Tag_grey__w_DyZ {
+	background: #8a99b7;
+	color: var(--white);
+}
+
+.Tag_green__ZLBHl {
+	background: var(--green-light);
+	color: var(--green);
+	font-weight: bold;
+}
+
+.Tag_primary__Q9fZg {
+	background: var(--primary);
+	color: var(--white);
+}
+
+
+
+
+
+
+
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Rating/Rating.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.Rating_filled__xLX0N svg {
+	fill: var(--primary)
+}
+
+.Rating_star__ObkYs:focus {
+	outline: none;
+	filter: drop-shadow(0 0 7px var(--primary));
+}
+
+.Rating_star__ObkYs svg {
+	margin-right: 5px;	
+	outline: none;
+}
+
+.Rating_star__ObkYs svg:focus {
+	outline: none;
+	filter: drop-shadow(0 0 3px var(--primary));
+}
+
+.Rating_editable__JB7Ce {
+	cursor: pointer;
+}
+
+.Rating_ratingWrapper__pz096 {
+	position: relative;
+}
+
+.Rating_errorMessage__dEHmn {
+	color: var(--red);
+	position: absolute;
+	bottom: -15px;
+	left: 0;
+}
+
+.Rating_error__5O4DX svg {
+	stroke: var(--red);
+}
+
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Header/Header.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.Header_header__pXml_ {
+    display: none;
+}
+
+.Header_mobileMenu__1zlXM {
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 20px 10px;
+    background-color: var(--element-background);
+    overflow-y: scroll;
+
+}
+
+.Header_menuClose__w5l_l {
+    position: fixed;
+    z-index: 11;
+    top: 40px;
+    right: 40px;
+    background-color: transparent;
+}
+
+@media (max-width: 765px) {
+    .Header_header__pXml_ {
+        display: grid;
+        grid-template-columns: 1fr 100px;
+        grid-gap: 10px;
+        gap: 10px;
+        margin: 15px 15px 0 15px;
+    }
+}
+
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/ButtonIcon/ButtonIcon.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************/
+.ButtonIcon_button__1Fikv {
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    width: 50px;
+    height: 50px;
+    background-size: 50px 50px;
+}
+
+.ButtonIcon_white__dMGmF {
+    justify-self: center;
+    align-self: center;
+    background: transparent;
+}
+
+.ButtonIcon_white__dMGmF:active svg {
+    fill: var(--primary);
+}
+
+.ButtonIcon_white__dMGmF:hover svg path{
+    fill: var(--white);
+}
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Menu/Menu.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.Menu_firstLevel__VdA6F {
+    display: grid;
+    grid-template-columns: 24px 1fr;
+    grid-gap: 20px;
+    gap: 20px;
+    align-items: center;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25px;
+    margin-top: 20px;
+
+    
+    &:hover {
+        color: var(--primary);
+    }
+}
+
+.Menu_firstLevelList__W3Rbr {
+    list-style: none;
+    padding: 0;
+}
+
+.Menu_firstLevelActive__gYPx2,
+.Menu_firstLevel__VdA6F:hover {
+    color: var(--primary);
+}
+
+
+.Menu_secondLevel__Y6MFB {
+    margin-bottom: 10px;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: var(--gray-dark);
+    font-weight: 300;
+    font-size: 14px;
+    border: none;
+    background: none;
+    padding: 0;
+}
+
+.Menu_secondBlock__6f9ip {
+    margin-top: 15px;
+    margin-left: 12px;
+    padding: 0 0 0 32px;
+    border-left: 1px solid #DFDFDF;
+    list-style: none;
+}
+
+.Menu_secondLevelBlock__zKf2o {
+    overflow: hidden;
+    padding: 0;
+    list-style: none;
+}
+
+/* .secondLevelBlockOpened {
+    display: block;
+}
+.secondLevelBlockOpened:last-child {
+    margin-bottom: 20px;
+} */
+
+.Menu_thirdLevel__ARehT {
+    margin-bottom: 10px;
+    display: block;
+    cursor: pointer;
+    color: var(--gray-dark);
+    font-weight: 500;
+    font-size: 14px;
+    outline-offset: -1px;
+    
+}
+
+.Menu_thirdLevelActive__qHi32,
+.Menu_thirdLevel__ARehT:hover {
+    color: var(--primary);
+}
+
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Sidebar/Sidebar.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+.Sidebar_sidebar__BeuG1 {
+    display: grid;
+    align-content: start;
+    grid-gap: 20px;
+    gap: 20px;
+    background-color: var(--element-background);
+    padding: 20px;
+}
+
+.Sidebar_logo__ZDiK1 {
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 765px) {
+    .Sidebar_logo__ZDiK1 {
+        display: none;
+    }
+    .Sidebar_sidebar__BeuG1 {
+        padding: 70px;
+    }
+}
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Search/Search.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.Search_search__hcrK2 {
+    position: relative;
+	width: 100%;
+}
+
+.Search_input__5wezn input {
+    width: 100%;
+}
+
+.Search_button__J5iqS {
+    position: absolute;
+    right: 3px;
+    top: 3px;
+    width: 30px;
+    height: 30px;
+    padding: 7px;
+}
+
+/*!*****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Input/Input.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************/
+.Input_input__MPP3N {
+    padding: 7px 15px;
+    color: var(--black);
+    border: none;
+    outline-color: var(--primary);
+    background: var(--white);
+	box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+	border-radius: 5px;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22px;
+	font-family: var(--font-family);
+}
+
+.Input_input__MPP3N::placeholder {
+	color: var(--gray);
+}
+
+.Input_error__1LZTs {
+    border: 1px solid var(--red);
+}
+
+.Input_errorMessage__zHQ6T {
+    color: var(--red);
+	position: absolute;
+	bottom: -20px;
+	left: 0;
+	color: var(--red);
+}
+
+.Input_inputWrapper__GGCVO {
+    position: relative;
+}
+
+
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Footer/Footer.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.Footer_footer__o4_Ec {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    grid-gap: 10px;
+    gap: 10px;
+    background-color: var(--primary);
+    padding: 25px 30px;
+    color: var(--white);
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.Footer_footer__o4_Ec a:hover {
+    color: var(--gray-light);
+}
+
+@media (max-width: 765px) {
+    .Footer_footer__o4_Ec {
+        grid-template-columns: 1fr;
+    }
+}
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Card/Card.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.Card_card__YWHGX {
+	background: var(--white-color);
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+	border-radius: 5px;
+}
+
+.Card_blue__xwan4 {
+	background: #F9F8FF;
+}
+
+.Card_red__swPTb {
+	background: var(--element-background);
+}
+
+.Card_white__hLuJT {
+	background: var(--white);
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/HhData/HhData.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.HhData_hh__1Uy7M {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-gap: 30px;
+    gap: 30px;
+}
+
+.HhData_count__4wslT {
+    padding: 20px;
+    text-align: center;
+}
+
+.HhData_salary__2IXbJ {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+    padding: 20px;
+    text-align: center;
+	background-color: var(--element-background);
+}
+
+.HhData_salary__2IXbJ > div {
+    border-right: 1px solid var(--gray-light);
+}
+
+.HhData_salary__2IXbJ > div:last-child {
+    border-right: none;
+}
+
+.HhData_title__5A_Lt {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.HhData_countValue__R6BzF {
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 49px;
+	color: var(--primary);
+}
+
+.HhData_salaryValue__Mt8nW {
+	font-weight: bold;
+	font-size: 26px;
+	line-height: 35px;
+	margin-bottom: 10px;
+}
+
+.HhData_rate__uz_IG {
+	display: grid;
+	grid-template-columns: repeat(3, 20px);
+	grid-gap: 10px;
+	gap: 10px;
+	justify-content: center;
+}
+
+.HhData_filled__SLogg {
+	fill: var(--red);
+}
+
+@media screen and (max-width: 1200px) {
+	.HhData_hh__1Uy7M {
+		grid-template-columns: 1fr;
+	}
+}
+@media screen and (max-width: 640px) {
+	.HhData_salary__2IXbJ {
+		grid-template-columns: 1fr;
+	}
+	.HhData_salary__2IXbJ > div {
+		border-right: none;
+		border-bottom: 1px solid var(--gray-light);
+		padding-bottom: 20px;
+	}
+	.HhData_salary__2IXbJ > div:last-child {
+		border-bottom: none;
+		padding-bottom: 0;
+	}
+	.HhData_salary__2IXbJ > div:nth-child(2),
+	.HhData_salary__2IXbJ > div:nth-child(3) {
+		padding-top: 20px;
+	}
+}
+
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Advantages/Advantages.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************/
+.Advantages_advantage__JCaJ4 {
+	display: grid;
+	grid-template-columns: 50px 1fr;
+	grid-gap: 10px 40px;
+	gap: 10px 40px;
+	margin-bottom: 30px;
+}
+
+.Advantages_advantage__JCaJ4 svg {
+	justify-self: center;
+}
+
+.Advantages_title__op3lm {
+	align-self: center;
+	font-weight: bold;
+}
+
+.Advantages_vline__81BvF {
+	border: none;
+	border-left: 1px solid var(--grey-light);
+	height: 100%;
+	margin: 0;
+	justify-self: center;
+}
+
+
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Sort/Sort.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.Sort_sortIcon__Kya8Q {
+    display: none;
+}
+
+.Sort_active__uu_ZP {
+	font-weight: bold;
+	color: var(--primary);
+}
+
+.Sort_active__uu_ZP .Sort_sortIcon__Kya8Q {
+    display: block;
+	margin-right: 8px;
+}
+
+.Sort_sort__MMWc_ {
+	display: inline-block;
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-gap: 40px;
+	gap: 40px;
+	cursor: pointer;
+	align-self: center;
+	margin-right: 50px;
+}
+
+.Sort_sort__MMWc_ button {
+	display: grid;
+	grid-template-columns: 20px 1fr;
+	align-items: center;
+	grid-gap: 8px;
+	gap: 8px;
+	cursor: pointer;
+	border: none;
+	background: none;
+	font-size: 18px;
+	line-height: 22px;
+}
+
+.Sort_sort__MMWc_ button:not(.Sort_active__uu_ZP) {
+	grid-template-columns: 1fr;
+}
+
+
+
+
+
+
+
+
+
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/TextArea/TextArea.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************/
+.TextArea_textarea__sGvjI {
+    padding: 7px 15px;
+    color: var(--black);
+    border: none;
+    outline-color: var(--primary);
+    background: var(--white);
+	box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+	border-radius: 5px;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 22px;
+	font-family: var(--font-family);
+	width: 100%;
+	min-height: 120px;
+}
+
+.TextArea_textarea__sGvjI::placeholder {
+	color: var(--grey);
+}
+
+.TextArea_error__bHpif {
+    border: 1px solid var(--red);
+}
+
+.TextArea_errorMessage__TtvCN {
+    color: var(--red);
+	position: absolute;
+	bottom: -15px;
+	left: 0;
+	color: var(--red);
+}
+
+.TextArea_textareaWrapper__r7f4c {
+    position: relative;
+}
+
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Product/Product.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+.Product_product__js_gO {
+    display: grid;
+    grid-template-columns: [start] 70px [logoend] 30px [titlestart] calc(50% - 100px) [middle] 1fr [pricestart] auto [priceend] 40px [creditstart] auto [creditend] 40px [ratestart] auto [end];
+	margin-top: 20px;
+	padding: 30px;
+	border-radius: 5px;
+
+}
+
+.Product_logo__QoAQc {
+    grid-column: start / logoend;
+	grid-row: 1 / span 2;
+}
+
+.Product_title__SOFEh,
+.Product_tags__dCfgP {
+    grid-column: titlestart / middle;
+}
+
+.Product_price__X9Eh0,
+.Product_priceTitle__oBwQF {
+    grid-column: pricestart / priceend;
+	white-space: nowrap;
+}
+
+.Product_credit__YLOTz,
+.Product_creditTitle__3Jyrp {
+    grid-column: creditstart / creditend;
+}
+
+.Product_rating__Q2MJI,
+.Product_rateTitle__L0bEC {
+    grid-column: ratestart / end;
+	white-space: nowrap;
+}
+
+.Product_hr__riiXI,
+.Product_description__AvsWE,
+.Product_advantages__0FLMc,
+.Product_disadvantages__zqHAP {
+    grid-column: start / end;
+	margin-bottom: 15px;
+}
+
+.Product_actions__zPeld {
+    grid-column: start / end;
+	margin-bottom: 15px;
+	white-space: nowrap;
+}
+
+.Product_features__ge1jg {
+    grid-column: start / middle;
+}
+
+.Product_advBlock__3Mz4B {
+    grid-column: middle / end;
+}
+
+.Product_logo__QoAQc img {
+    border-radius: 5px;
+}
+
+.Product_title__SOFEh {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 27px;
+	align-self: flex-end;
+}
+
+.Product_category__rnmDf {
+	margin-top: 7px;
+}
+
+.Product_price__X9Eh0, .Product_credit__YLOTz {
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 27px;
+	align-self: flex-end;
+}
+
+.Product_rating__Q2MJI {
+	align-self: flex-end;
+}
+
+.Product_description__AvsWE {
+	font-size: 16px;
+	line-height: 24px;
+	margin-top: 12px;
+}
+
+.Product_priceTitle__oBwQF,
+.Product_creditTitle__3Jyrp,
+.Product_rateTitle__L0bEC {
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 19px;
+}
+
+.Product_month__n4_gC {	
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 19px;
+}
+
+.Product_oldPrice__2YV1e {
+	margin-left: 5px;
+}
+
+.Product_reviewButton__6lOEC {
+	margin-left: 20px;
+}
+
+.Product_advBlock__3Mz4B {
+	font-size: 16px;
+	line-height: 22px;
+}
+
+.Product_advTitle__NmKfe {
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+.Product_advantages__0FLMc {
+	border-left: 2px solid #1dc37e;
+	padding-left: 15px;
+	margin-bottom: 20px;
+}
+
+.Product_disadvantages__zqHAP {
+	border-left: 2px solid var(--red);
+	padding-left: 15px;
+}
+
+.Product_characteristics__O9epW {
+	display: grid;
+	grid-template-columns: auto 1fr auto;
+	padding-right: 60px;
+	align-items: baseline;
+	font-size: 16px;
+	line-height: 32px;
+	grid-gap: 10px;
+	gap: 10px;
+}
+
+.Product_characteristicsName__8JlKR {
+	margin-right: 10px;
+	font-weight: bold;
+}
+
+.Product_characteristicsDots__ZyxB5 {
+	border-bottom: 1px dashed var(--grey-light);
+	margin-bottom: 5px;
+}
+
+.Product_reviews__1FTBK {
+	overflow: hidden;
+	padding: 30px;
+}
+
+
+
+/* .closed {
+	overflow: hidden;
+	max-height: 0;
+	padding: 0;
+}
+
+.opened {
+	max-height: auto;
+	padding: 30px;
+} */
+
+.Product_rateTitle__L0bEC a {
+	color: var(--primary);
+	text-decoration: none;
+}
+
+.Product_rateTitle__L0bEC a:hover {
+	text-decoration: underline;
+}
+
+
+@media screen and (max-width: 1450px) {
+	.Product_product__js_gO {
+		grid-template-columns:
+		 70px 30px auto 40px auto 40px 1fr;
+		grid-template-areas:
+		"logo . title title title title title"
+		"logo . tags tags tags tags tags"
+		"price price price . credit . rating"
+		"priceTitle priceTitle priceTitle . creditTitle . rateTitle"
+		"hr hr hr hr hr hr hr"
+		"description description description description description description description"
+		"advantages advantages advantages advantages advantages advantages advantages"
+		"features features features features features features features"
+		"advBlock advBlock advBlock advBlock advBlock advBlock advBlock"
+		"hr2 hr2 hr2 hr2 hr2 hr2 hr2"
+		"actions actions actions actions actions actions actions"
+		;
+	}
+	.Product_logo__QoAQc {
+		grid-area: logo;
+		margin-bottom: 20px;
+	}
+	.Product_title__SOFEh {
+		grid-area: title;
+	}
+	.Product_tags__dCfgP {
+		grid-area: tags;
+		margin-bottom: 20px;
+	}
+	.Product_price__X9Eh0 {
+		grid-area: price;
+	}
+	.Product_credit__YLOTz {
+		grid-area: credit;
+	}
+	.Product_priceTitle__oBwQF {
+		grid-area: priceTitle;
+	}
+	.Product_creditTitle__3Jyrp {
+		grid-area: creditTitle;
+	}
+	.Product_rateTitle__L0bEC {
+		grid-area: rateTitle;
+	}
+	.Product_rating__Q2MJI {
+		grid-area: rating;
+	}
+	.Product_hr__riiXI {
+		grid-area: hr;
+	}
+	.Product_hr2__UgdWB {
+		grid-area: hr2;
+	}
+	.Product_description__AvsWE {
+		grid-area: description;
+	}
+	.Product_advantages__0FLMc {
+		grid-area: advantages;
+	}
+	.Product_features__ge1jg {
+		grid-area: features;
+		margin-bottom: 20px;
+	}
+	.Product_advBlock__3Mz4B {
+		grid-area: advBlock;
+	}
+	.Product_actions__zPeld {
+		grid-area: actions;
+	}
+
+	
+	
+}
+@media screen and (max-width: 920px) {
+	.Product_product__js_gO {
+		grid-template-columns:
+		 70px 30px 1fr;
+		grid-template-areas:
+		"logo . title "
+		"logo . tags "
+		"priceTitle priceTitle price"
+		"creditTitle creditTitle credit"
+		"rateTitle rateTitle rating"
+		"hr hr hr"
+		"description description description"
+		"advantages advantages advantages"
+		"features features features"
+		"advBlock advBlock advBlock"
+		"hr2 hr2 hr2"
+		"actions actions actions"
+		;
+	}
+
+	.Product_price__X9Eh0 {
+		margin-bottom: 10px;
+	}
+	.Product_credit__YLOTz {
+		margin-bottom: 10px;
+	}
+	.Product_rating__Q2MJI {
+		margin-bottom: 10px;
+	}
+	
+	
+}
+
+@media screen and (max-width: 480px) {
+	.Product_product__js_gO {
+		grid-template-columns:
+		1fr;
+		grid-template-areas:
+		"logo"
+		"title"
+		"tags "
+		"price"
+		"priceTitle"
+		"credit"
+		"creditTitle"
+		"rating"
+		"rateTitle	"
+		"hr"
+		"description"
+		"advantages"
+		"features"
+		"advBlock"
+		"hr2"
+		"actions "
+		;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Divider/Divider.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+.Divider_hr__Wi7wk {
+	width: 100%;
+	height: 1px;
+	border: none;
+	background-color: var(--grey-light);
+	margin: 20px 0;
+}
+
+
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Review/Review.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.Review_review__9TFj5 {
+	display: grid;
+	grid-template-columns: [start] auto [title] 1fr [date] auto [rating] auto [end];
+	grid-gap: 10px;
+	gap: 10px;
+	align-items: center;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.Review_description__Q0eMj {
+	grid-column: start / end;
+}
+
+.Review_date__hCUit {
+	margin-right: 10px;
+}
+
+.Review_name__aa9hl {
+	font-weight: bold;
+}
+
+.Review_rating__tPGPE {
+	margin-left: 10px;
+}
+
+@media screen and (max-width: 920px) {
+	.Review_review__9TFj5 {
+		grid-template-columns: [start] 50px [titlestart] auto [dateend] 1fr [end];
+	}
+	
+	.Review_title__kZz0t {
+		grid-column: titlestart / end;
+	}
+
+	.Review_date__hCUit {
+		grid-column: start / dateend;
+	}
+}	
+@media screen and (max-width: 480px) {
+
+	.Review_date__hCUit {
+		grid-column: start / end;
+		margin-left: 30px;
+	}
+
+	.Review_rating__tPGPE {
+		grid-column: start / end;
+	}
+}	
+
+
+
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/ReviewForm/ReviewForm.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************/
+.ReviewForm_reviewForm__JJFdE {
+	font-size: 14px;
+	line-height: 24px;
+	display: grid;
+	grid-template-columns: [start] auto [title] 1fr [rating] auto [end];
+	grid-gap: 20px 30px;
+	gap: 20px 30px;
+	align-items: center;
+}
+
+.ReviewForm_description__WinSJ, .ReviewForm_submit__H_y51{
+	grid-column: start / end;
+}
+
+.ReviewForm_submit__H_y51{
+	grid-column: start / end;
+	margin-bottom: 30px;
+}
+
+.ReviewForm_title___0NKq {
+	justify-self: left;
+}
+
+.ReviewForm_info__ZcJoH {
+	margin-left: 15px;
+}
+
+.ReviewForm_rating__k_l_h {
+	display: grid;
+	grid-template-columns: auto 1fr;
+	grid-gap: 20px;
+	gap: 20px;
+	white-space: nowrap;
+}
+
+.ReviewForm_panel__5TGdg {
+	padding: 20px;
+	position: relative;
+	border-radius: 5px;
+	margin-top: 20px;
+}
+
+.ReviewForm_success__ObISr {
+	background: var(--green-light);
+}
+
+.ReviewForm_successTitle__1z9da {
+	font-weight: bold;
+}
+
+.ReviewForm_error__JD2p5 {
+	background: var(--red-light);
+}
+
+.ReviewForm_close__2ICMP {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	border: none;
+	background: none;
+	cursor: pointer;
+}
+
+.ReviewForm_error__JD2p5 .ReviewForm_close__2ICMP path {
+	stroke: var(--red);
+}
+
+
+@media screen and (max-width: 1140px) {
+	.ReviewForm_reviewForm__JJFdE {
+		grid-template-columns: [start] 1fr 1fr [end];
+	}
+
+	.ReviewForm_title___0NKq {
+		justify-self: normal;
+	}
+
+	.ReviewForm_rating__k_l_h {
+		grid-column: start / end;
+	}
+}
+
+@media screen and (max-width: 640px) {
+	.ReviewForm_reviewForm__JJFdE {
+		grid-template-columns: [start] 1fr [end];
+	}
+
+	.ReviewForm_title___0NKq {
+		justify-self: normal;
+	}
+
+	.ReviewForm_rating__k_l_h {
+		grid-column: start / end;
+	}
+}
+
+/*!***********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./components/Up/Up.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************/
+.Up_up__wy2Jd {
+	width: 100px;
+	height: 100px;
+    border-radius: 10px;
+	bottom: 30px;
+	right: 30px;
+	cursor: pointer;
+	position: fixed;
+	border: none;
+	background-color: transparent;
+	
+}
+
+.Up_up__wy2Jd svg {
+	fill: var(--primary);
+}
+
+.Up_up__wy2Jd:hover svg {
+	fill: var(--primary-hover);
+}
+

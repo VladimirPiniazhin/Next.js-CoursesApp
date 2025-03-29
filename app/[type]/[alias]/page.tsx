@@ -4,6 +4,18 @@ import { getMenu } from "@/api/menu";
 import { firstLevelMenu } from "@/helpers/helpers";
 import { PageComponent } from "@/components/PageComponent/PageComponent";
 import { getProduct } from "@/api/product";
+import { Metadata } from "next";
+
+
+
+export async function generateMetadata({ params }: { params: { alias: string, type: string } }): Promise<Metadata> {
+    const page = await getPage(params.alias);
+    return {
+        title: page?.metaTitle,
+        description: page?.metaDescription
+    }
+}
+
 
 export async function generateStaticParams() {
     const result = [];
@@ -11,8 +23,7 @@ export async function generateStaticParams() {
     for (const menuItem of firstLevelMenu) {
         const menu = await getMenu(menuItem.id);
         
-        const paths = menu.flatMap(item => 
-            item.pages.map(page => ({
+        const paths = menu.flatMap(item => item.pages.map(page => ({
                 type: menuItem.route,
                 alias: page.alias
             }))
@@ -38,7 +49,7 @@ export default async function Page({ params }: { params: { alias: string, type: 
         const product = await getProduct(page.category);
         return (
             <div>
-                <PageComponent page={page} products={product} />
+                {product && <PageComponent page={page} products={product} />}
             </div>
         );
     } catch (error) {

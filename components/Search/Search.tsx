@@ -20,7 +20,7 @@ export const Search = ({ className, ...props }: SearchProps): ReactNode => {
     
     
     return (
-        <div className={cn(styles.search, className)} {...props}>
+        <form className={cn(styles.search, className)} {...props}>
             <Input 
             className={styles.input}
             placeholder="Поиск"
@@ -38,6 +38,6 @@ export const Search = ({ className, ...props }: SearchProps): ReactNode => {
             >
                 <SearchIcon />
             </Button>
-        </div>
+        </form>
     );
 };

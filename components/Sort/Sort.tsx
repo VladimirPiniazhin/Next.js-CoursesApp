@@ -10,22 +10,22 @@ export const Sort = ({ sort, setSort, className, ...props }: SortProps): ReactNo
 
     return (
         <div className={cn(styles.sort, className)} {...props}>
-            <span 
+            <button 
             onClick={() => setSort(SortEnum.Rating)}
             className={cn({
                 [styles.active]: sort === SortEnum.Rating,
                 [styles.none]: sort === SortEnum.None
             })}>
                 <SortIcon className={styles.sortIcon} /> По рейтингу
-            </span>
-            <span 
+            </button>
+            <button 
             onClick={() => setSort(SortEnum.Price)}
             className={cn({
                 [styles.active]: sort === SortEnum.Price,
                 [styles.none]: sort === SortEnum.None
             })}>
                 <SortIcon className={styles.sortIcon} /> По цене
-            </span>
+            </button>
         </div>
     );
 };

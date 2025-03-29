@@ -12,7 +12,7 @@ import { FieldValues, useForm, Controller} from 'react-hook-form';
 import { IReviewForm, IReviewSentResponse } from './ReviewForm.interface';
 import { API } from '@/app/api';
 
-export const ReviewForm = ({ productId, className, ...props }: ReviewFormProps): ReactNode => {
+export const ReviewForm = ({ productId, isOpened, className, ...props }: ReviewFormProps): ReactNode => {
 
     const { register, control, handleSubmit, formState: { errors }, reset } = useForm<IReviewForm>();
 
@@ -43,11 +43,13 @@ export const ReviewForm = ({ productId, className, ...props }: ReviewFormProps):
                     <Input {...register('name', {required: {value: true, message: 'Заполните имя'}})} 
                         placeholder='Имя'
                         error={errors.name}
+                        tabIndex={isOpened ? 0 : -1}
                     />
                     <Input {...register('title', {required: {value: true, message: 'Заполните заголовок'}})}
                         placeholder='Заголовок' 
                         className={styles.title}
                         error={errors.title}
+                        tabIndex={isOpened ? 0 : -1}
                     />
                     <div className={styles.rating}>
                         <span>Оценка:</span>
@@ -62,6 +64,7 @@ export const ReviewForm = ({ productId, className, ...props }: ReviewFormProps):
                                     ref={field.ref}
                                     setRating={field.onChange}
                                     error={errors.rating}
+                                    tabIndex={isOpened ? 0 : -1}
                                 />
                             )}
                         />
@@ -71,9 +74,10 @@ export const ReviewForm = ({ productId, className, ...props }: ReviewFormProps):
                         placeholder='Текст отзыва' 
                         className={styles.description}
                         error={errors.description}
+                        tabIndex={isOpened ? 0 : -1}
                     />
                     <div className={styles.submit}>
-                        <Button appearance='primary'>Отправить</Button>
+                        <Button appearance='primary' tabIndex={isOpened ? 0 : -1}>Отправить</Button>
                         <span className={styles.info}>* Перед публикацией отзыв проходит предварительную модерацию и проверку</span>
                     </div>          
                 </div>
@@ -82,11 +86,15 @@ export const ReviewForm = ({ productId, className, ...props }: ReviewFormProps):
                     <div>
                         Спасибо, ваш отзыв будет опубликован после проверки.
                     </div>
-                    <CloseIcon className={styles.close} onClick={() => setIsSuccess(false)}/>
+                    <button className={styles.close} onClick={() => setIsSuccess(false)}>
+                        <CloseIcon  />
+                    </button>
                 </div>}
                 {error && <div className={cn(styles.panel, styles.error)}>
                     <div className={styles.errorTitle}>Что-то пошло не так, попробуйте отправить отзыв позже</div>
-                    <CloseIcon className={styles.close} onClick={() => setError(undefined)}/>
+                    <button className={styles.close} onClick={() => setError(undefined)}>
+                        <CloseIcon  />
+                    </button>
                 </div>}
         </form>
     );

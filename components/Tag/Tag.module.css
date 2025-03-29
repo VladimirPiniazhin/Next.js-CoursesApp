@@ -3,6 +3,7 @@
 	box-sizing: border-box;
 	margin-right: 5px;
 	border-radius: 20px;
+	margin-top: 5px;
 }
 
 .small {
@@ -18,7 +19,7 @@
 }
 
 .ghost {
-	border: 1px solid var(--gray-light);
+	border: 1px solid var(--grey-light);
 }
 
 .red {
@@ -26,8 +27,8 @@
 	color: var(--white);
 }
 
-.gray {
-	background: #B3C0D9;
+.grey {
+	background: #8a99b7;
 	color: var(--white);
 }
 

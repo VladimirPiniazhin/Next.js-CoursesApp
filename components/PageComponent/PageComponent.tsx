@@ -27,7 +27,7 @@ export const PageComponent =({page, products}: PageComponentProps): ReactNode =>
             <div className={styles.wrapper}>
                 <div className={styles.title}>
                     <Htag tag="h1">{page.title}</Htag>
-                    <Tag color="gray" size="medium">{page.category.length}</Tag>
+                    <Tag color="grey" size="medium">{page.category.length}</Tag>
                     <Sort sort={sort} setSort={setSort}/>
                 </div>
                 <div className={styles.products}>
@@ -35,7 +35,6 @@ export const PageComponent =({page, products}: PageComponentProps): ReactNode =>
                         <Product 
                             product={p} 
                             key={p._id}
-                            layout
                         />))}
                 </div>               
                 <div className={styles.hhtitle}>

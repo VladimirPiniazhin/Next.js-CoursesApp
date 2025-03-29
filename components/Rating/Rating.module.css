@@ -2,6 +2,11 @@
 	fill: var(--primary)
 }
 
+.star:focus {
+	outline: none;
+	filter: drop-shadow(0 0 7px var(--primary));
+}
+
 .star svg {
 	margin-right: 5px;	
 	outline: none;

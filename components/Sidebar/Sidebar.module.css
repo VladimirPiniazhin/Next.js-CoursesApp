@@ -10,3 +10,12 @@
     display: flex;
     justify-content: center;
 }
+
+@media (max-width: 765px) {
+    .logo {
+        display: none;
+    }
+    .sidebar {
+        padding: 70px;
+    }
+}

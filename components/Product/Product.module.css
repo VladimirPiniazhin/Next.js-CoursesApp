@@ -3,6 +3,8 @@
     grid-template-columns: [start] 70px [logoend] 30px [titlestart] calc(50% - 100px) [middle] 1fr [pricestart] auto [priceend] 40px [creditstart] auto [creditend] 40px [ratestart] auto [end];
 	margin-top: 20px;
 	padding: 30px;
+	border-radius: 5px;
+
 }
 
 .logo {
@@ -119,7 +121,7 @@
 }
 
 .advantages {
-	border-left: 2px solid var(--green);
+	border-left: 2px solid #1dc37e;
 	padding-left: 15px;
 	margin-bottom: 20px;
 }
@@ -145,7 +147,7 @@
 }
 
 .characteristicsDots {
-	border-bottom: 1px dashed var(--gray-light);
+	border-bottom: 1px dashed var(--grey-light);
 	margin-bottom: 5px;
 }
 

@@ -4,7 +4,7 @@ import "./globals.css";
 import styles from "./layout.module.css";
 import { Header, Footer, Sidebar, Up } from "../components";
 import cn from 'classnames';
-
+import { HeaderWrapper } from "../components/Header/HeaderWrapper";
 
 const notoSans = Noto_Sans({
   variable: "--font-noto-sans",
@@ -24,7 +24,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={cn(notoSans.className, styles.wrapper)}>
-          <Header className={styles.header} />
+          <HeaderWrapper />
           <Sidebar className={styles.sidebar} />
           <main className={styles.body}>{children}</main>
           <Footer className={styles.footer} />

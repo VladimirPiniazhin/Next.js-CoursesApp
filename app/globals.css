@@ -2,17 +2,17 @@
 	--background: #F5F6F8;
 	--foreground: #171717;
 	--black: #3B434E;
-	--gray: #A4A4A4;
+	--grey: #A4A4A4;
 	--white: white;
-	--primary: #7653FC;
+	--primary: #714ff0;
 	--primary-hover: #6344E8;
 	--red: #FC836D;
 	--red-light: #FEA291;
-	--green: #1DC37E;
+	--green: #007b48;
 	--green-light: #C8F8E4;
 	--font-family: 'Noto Sans', sans-serif;
-	--gray-light: #c5c4c4;
-	--gray-dark: #787D85;
+	--grey-light: #c5c4c4;
+	--grey-dark: #6a6e75;
 	--element-background: #f2f2f2;
 
 	
@@ -40,10 +40,6 @@ body {
 	align-items: center;
 	padding: 6rem;
 	min-height: 100vh;
-}
-
-nav {
-	border: 1px solid darkgreen;
 }
 
 a {

@@ -1,18 +1,18 @@
 'use client';
 
 import { ReactNode } from 'react';
-import { ButtonIconProps } from './ButtonIcon.props';
-import styles from './Button.module.css';
+import { ButtonIconProps, icons } from './ButtonIcon.props';
+import styles from './ButtonIcon.module.css';
 import cn from 'classnames';
-import ArrowIcon from './arrow.svg';
 
 export const ButtonIcon = ({ appearance, icon, className, ...props }: ButtonIconProps): ReactNode => {
+    const IconComponent = icons[icon];
     return (
         <button className={cn(styles.button, className, {
             [styles.primary]: appearance === 'primary',
             [styles.white]: appearance === 'white',
         })} {...props}>
-            {icon}
+            <IconComponent />
         </button>
 
     );

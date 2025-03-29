@@ -5,10 +5,12 @@ import { ButtonProps } from './Button.props';
 import styles from './Button.module.css';
 import cn from 'classnames';
 import ArrowIcon from './arrow.svg';
-
+import { motion } from 'framer-motion';
 export const Button = ({ appearance, children, arrow = 'none', className, ...props }: ButtonProps): ReactNode => {
     return (
-        <button className={cn(styles.button, className, {
+        <motion.button 
+            whileHover={{ scale: 1.05 }}
+            className={cn(styles.button, className, {
             [styles.primary]: appearance === 'primary',
             [styles.ghost]: appearance === 'ghost',
         })}
@@ -20,7 +22,7 @@ export const Button = ({ appearance, children, arrow = 'none', className, ...pro
             })}>
                 <ArrowIcon />
             </span>}
-        </button>
+        </motion.button>
     );
 };
 
