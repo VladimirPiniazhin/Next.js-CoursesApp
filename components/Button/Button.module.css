@@ -1,56 +1,56 @@
 .button {
-    display: inline-flex;
-    box-sizing: border-box;
-    padding: 10px;
-    cursor: pointer;
-    text-align: center;
-    border: none;
-    border-radius: 5px;
-    font-size: 14px;
-    transition: all 0.2s;
-    align-items: center;
-    justify-content: center;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	font-size: 14px;
+	text-align: center;
+	cursor: pointer;
+	transition: all 0.2s;
+	box-sizing: border-box;
 }
 
 .primary {
-    color: var(--white);
-    background-color: var(--primary);
+	color: var(--white);
+	background-color: var(--primary);
 }
 
 .primary:hover {
-    background-color: var(--primary-hover);
+	background-color: var(--primary-hover);
 }
 
 
 .ghost {
-    color: var(--black);
-    background-color: transparent;
-    border: 1px solid var(--grey-light);
+	border: 1px solid var(--grey-light);
+	color: var(--black);
+	background-color: transparent;
 
 }
 
 .ghost:hover {
-    color: var(--white);
-    background-color: var(--primary-hover);
+	color: var(--white);
+	background-color: var(--primary-hover);
 }
 
 
 .arrow {
-    display: inline-flex;
-    align-items: center;
-    margin-left: 10px;
+	display: inline-flex;
+	align-items: center;
+	margin-left: 10px;
 }
 
 .arrow svg {
-    fill: currentColor;
-    display: block;
-    transform-box: fill-box;
-    transform-origin: center;
+	fill: currentcolor;
+	display: block;
+	transform-box: fill-box;
+	transform-origin: center;
 }
 
 .down {
-    transform: rotate(90deg);
-    transition: all 0.2s;
+	transform: rotate(90deg);
+	transition: all 0.2s;
 }
 
 

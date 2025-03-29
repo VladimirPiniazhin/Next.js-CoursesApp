@@ -9,7 +9,9 @@ import { Metadata } from "next";
 
 
 export async function generateMetadata({ params }: { params: { alias: string, type: string } }): Promise<Metadata> {
-    const page = await getPage(params.alias);
+    const resolvedParams = await params;
+    const { alias, type } = resolvedParams;
+    const page = await getPage(alias);
     return {
         title: page?.metaTitle,
         description: page?.metaDescription

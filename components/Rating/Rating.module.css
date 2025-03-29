@@ -12,6 +12,10 @@
 	outline: none;
 }
 
+.error svg {
+	stroke: var(--red);
+}
+
 .star svg:focus {
 	outline: none;
 	filter: drop-shadow(0 0 3px var(--primary));
@@ -26,13 +30,11 @@
 }
 
 .errorMessage {
-	color: var(--red);
 	position: absolute;
 	bottom: -15px;
 	left: 0;
+	color: var(--red);
 }
 
-.error svg {
-	stroke: var(--red);
-}
+
 

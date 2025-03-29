@@ -15,10 +15,10 @@
 }
 
 .vline {
-	border: none;
-	border-left: 1px solid var(--grey-light);
 	height: 100%;
 	margin: 0;
+	border: none;
+	border-left: 1px solid var(--grey-light);
 	justify-self: center;
 }
 

@@ -1,10 +1,10 @@
 .reviewForm {
+	display: grid;
+	align-items: center;
+	gap: 20px 30px;
 	font-size: 14px;
 	line-height: 24px;
-	display: grid;
 	grid-template-columns: [start] auto [title] 1fr [rating] auto [end];
-	gap: 20px 30px;
-	align-items: center;
 }
 
 .description, .submit{
@@ -32,10 +32,10 @@
 }
 
 .panel {
-	padding: 20px;
 	position: relative;
-	border-radius: 5px;
 	margin-top: 20px;
+	padding: 20px;
+	border-radius: 5px;
 }
 
 .success {
@@ -64,7 +64,7 @@
 }
 
 
-@media screen and (max-width: 1140px) {
+@media screen and (width <= 1140px) {
 	.reviewForm {
 		grid-template-columns: [start] 1fr 1fr [end];
 	}
@@ -78,7 +78,7 @@
 	}
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (width <= 640px) {
 	.reviewForm {
 		grid-template-columns: [start] 1fr [end];
 	}

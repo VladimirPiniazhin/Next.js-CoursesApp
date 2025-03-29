@@ -4,16 +4,16 @@
 	--black: #3B434E;
 	--grey: #A4A4A4;
 	--white: white;
-	--primary: #714ff0;
+	--primary: #714FF0;
 	--primary-hover: #6344E8;
 	--red: #FC836D;
 	--red-light: #FEA291;
-	--green: #007b48;
+	--green: #007B48;
 	--green-light: #C8F8E4;
 	--font-family: 'Noto Sans', sans-serif;
-	--grey-light: #c5c4c4;
-	--grey-dark: #6a6e75;
-	--element-background: #f2f2f2;
+	--grey-light: #C5C4C4;
+	--grey-dark: #6A6E75;
+	--element-background: #F2F2F2;
 
 	
 }
@@ -38,8 +38,8 @@ body {
 	flex-direction: column;
 	justify-content: space-between;
 	align-items: center;
-	padding: 6rem;
 	min-height: 100vh;
+	padding: 6rem;
 }
 
 a {
