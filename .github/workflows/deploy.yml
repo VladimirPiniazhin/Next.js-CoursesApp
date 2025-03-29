@@ -23,7 +23,7 @@ jobs:
       run: |
         mkdir -p ~/.ssh
         ssh-keyscan -H ${{ secrets.REMOTE_HOST }} >> ~/.ssh/known_hosts
-
+        echo "ServerAliveInterval 60" >> ~/.ssh/config
     
     - name: Sync repository to remote server
       run: |
@@ -31,10 +31,8 @@ jobs:
 
     - name: Deploy application
       run: |
-        ssh ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }} "
+        ssh -o ServerAliveInterval=60 ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }} "
          cd /opt/docker/courses-app &&
-         export DOCKER_CLIENT_TIMEOUT=600 &&
-         export COMPOSE_HTTP_TIMEOUT=600 &&
          docker-compose down --rmi local --remove-orphans &&
          docker-compose up -d --build
         "
