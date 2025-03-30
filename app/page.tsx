@@ -18,12 +18,12 @@ export default function Home() {
       <P size="large">Text</P>
       <Tag size="small" color="red">Red small</Tag>
       <Tag size="small" color="green">Green small</Tag>
-      <Tag size="small" color="gray">Gray small</Tag>
+      <Tag size="small" color="grey">Gray small</Tag>
       <Tag size="medium" color="primary">Primary medium</Tag>
       <Tag size="medium" color="ghost">Ghost medium</Tag>
       <Tag size="medium" color="red">Red medium</Tag>
       <Tag size="medium" color="green">Green medium</Tag>
-      <Tag size="medium" color="gray">Gray medium</Tag>
+      <Tag size="medium" color="grey">Gray medium</Tag>
       <Rating numberOfStars={rating} isEditable setRating={setRating}/>
       <Input placeholder="test" />
     </>

@@ -124,3 +124,5 @@ export const Product = forwardRef(({ product, className, ...props }: ProductProp
         </div>
     );
 });
+
+Product.displayName = 'Product';

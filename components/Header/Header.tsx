@@ -5,7 +5,7 @@ import styles from './Header.module.css';
 import cn from 'classnames';
 import Logo from '../logo2.svg';
 import { ButtonIcon } from '../ButtonIcon/ButtonIcon';
-import { motion, AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion";
 import { Sidebar } from "../Sidebar/Sidebar";
 import { useState, useEffect } from "react";
 import { usePathname } from "next/navigation";

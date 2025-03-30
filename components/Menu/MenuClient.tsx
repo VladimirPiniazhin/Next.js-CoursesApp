@@ -94,8 +94,8 @@ export const MenuClient = ({menu}: {menu: MenuItem[]}) => {
         return (
             <ul className={styles.secondBlock}>
                 {menuState?.map(item => {
-                    const pathParts = pathname?.split('/') || [];
-                    const isActive = pathParts.length > 2 && pathParts[2] === item._id.secondCategory;
+                    //const pathParts = pathname?.split('/') || [];
+                    //const isActive = pathParts.length > 2 && pathParts[2] === item._id.secondCategory;
                     
                     return (
                         <li key={item._id.secondCategory}>

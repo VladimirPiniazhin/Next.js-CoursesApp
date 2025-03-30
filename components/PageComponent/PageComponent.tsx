@@ -9,12 +9,12 @@ import { Advantages } from "../Advantages/Advantages";
 import { Sort, SortEnum } from "../Sort/Sort";
 import { sortReducer } from "./sort.reducer";
 import { Product } from "../Product/Product";
-import { useScrollY } from "@/hooks/useScrollY";
+//import { useScrollY } from "@/hooks/useScrollY";
 
 export const PageComponent =({page, products}: PageComponentProps): ReactNode => {
     const [{products: sortedProducts, sort}, dispatchSort] = useReducer(sortReducer, { products: products, sort: SortEnum.None});
 
-    const scrollY = useScrollY();
+    //const scrollY = useScrollY();
     const setSort = (sort: SortEnum) => {
         dispatchSort({type: sort});
     }

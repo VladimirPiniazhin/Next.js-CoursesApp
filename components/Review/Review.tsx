@@ -1,4 +1,4 @@
-import { ReactNode, useState } from 'react';
+import { ReactNode } from 'react';
 import { ReviewProps } from './Review.props';
 import styles from './Review.module.css';
 import cn from 'classnames';

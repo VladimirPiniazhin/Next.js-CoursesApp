@@ -2,10 +2,6 @@ import { ReactNode } from 'react';
 import { AdvantagesProps } from './Advantages.props';
 import styles from './Advantages.module.css';
 import CheckIcon from './check.svg'
-import cn from 'classnames';
-import { Card } from '../Card/Card';
-import RateIcon from '../Rating/star.svg';
-import { priceRu } from '@/helpers/helpers';
 
 export const Advantages = ({ advantages }: AdvantagesProps): ReactNode => {
         return (

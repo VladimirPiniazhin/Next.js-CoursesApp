@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Noto_Sans } from "next/font/google";
 import "./globals.css";
 import styles from "./layout.module.css";
-import { Header, Footer, Sidebar, Up } from "../components";
+import { Footer, Sidebar, Up } from "../components";
 import cn from 'classnames';
 import { HeaderWrapper } from "../components/Header/HeaderWrapper";
 

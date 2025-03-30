@@ -1,4 +1,3 @@
-import { HeaderProps } from "./Header.props";
 import { Header } from "./Header";
 import { getMenu } from "@/api/menu";
 

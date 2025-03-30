@@ -1,7 +1,6 @@
-/* eslint-disable */
 'use client';
 
-import { ForwardedRef, forwardRef, ReactNode, useState, useEffect, KeyboardEvent, useRef } from 'react';
+import { ForwardedRef, forwardRef, ReactNode, useState, useEffect, KeyboardEvent, useRef, useCallback } from 'react';
 import { RatingProps } from './Rating.props';
 import styles from './Rating.module.css';
 import StarIcon from './star.svg'
@@ -12,12 +11,6 @@ export const Rating = forwardRef(({ isEditable = false, numberOfStars, setRating
     const [ratingArray, setRatingArray] = useState<ReactNode[]>(new Array(5).fill(<></>));
 
     const ratingArrayRef = useRef<(HTMLSpanElement | null)[]>([]);
-
-
-    useEffect(() => {
-        constructRating(numberOfStars);
-    }, [numberOfStars, tabIndex]);
-
 
     const computedFocus = (r: number, i: number): number => {
         if(!isEditable){
@@ -32,7 +25,7 @@ export const Rating = forwardRef(({ isEditable = false, numberOfStars, setRating
         return -1;
     }
 
-    const constructRating = (currentRating: number) => {
+    const constructRating = useCallback((currentRating: number) => {
         const updateArray = ratingArray.map((r:ReactNode, i: number) =>{
             return (
                 <span
@@ -58,7 +51,11 @@ export const Rating = forwardRef(({ isEditable = false, numberOfStars, setRating
             );
         });
         setRatingArray(updateArray);
-    };
+    }, [isEditable, numberOfStars, tabIndex]);
+
+    useEffect(() => {
+        constructRating(numberOfStars);
+    }, [numberOfStars, constructRating]);
 
     const changeDisplay=(i: number)=> {
         if(!isEditable){
@@ -108,3 +105,5 @@ export const Rating = forwardRef(({ isEditable = false, numberOfStars, setRating
         </div>
     );
 });
+
+Rating.displayName = 'Rating';

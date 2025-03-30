@@ -1,7 +1,6 @@
 'use client';
 import { ReactNode, useEffect } from 'react';
 import styles from './Up.module.css';
-import cn from 'classnames';
 import UpIcon from './arrow-up.svg';
 import { useScrollY } from '../../hooks/useScrollY';
 import { motion, useAnimation } from 'framer-motion';
@@ -14,7 +13,7 @@ export const Up = (): ReactNode => {
         control.start({
             opacity: scrollY/document.body.scrollHeight
         });
-    }, [scrollY]);
+    }, [scrollY, control]);
 
     const scrollToTop = () => {
         window.scrollTo({

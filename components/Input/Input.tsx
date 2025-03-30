@@ -16,3 +16,5 @@ export const Input = forwardRef(({ className, error, ...props }: InputProps, ref
         </div>
     );
 });
+
+Input.displayName = 'Input';

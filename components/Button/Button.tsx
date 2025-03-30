@@ -26,3 +26,5 @@ export const Button = ({ appearance, children, arrow = 'none', className, ...pro
     );
 };
 
+Button.displayName = 'Button';
+

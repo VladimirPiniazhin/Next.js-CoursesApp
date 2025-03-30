@@ -8,8 +8,8 @@ import { Input } from '../Input/Input';
 import { TextArea } from '../TextArea/TextArea';
 import { Button } from '../Button/Button';
 import CloseIcon from './close.svg';
-import { FieldValues, useForm, Controller} from 'react-hook-form';
-import { IReviewForm, IReviewSentResponse } from './ReviewForm.interface';
+import { useForm, Controller} from 'react-hook-form';
+import { IReviewForm } from './ReviewForm.interface';
 import { API } from '@/app/api';
 
 export const ReviewForm = ({ productId, isOpened, className, ...props }: ReviewFormProps): ReactNode => {
@@ -99,3 +99,5 @@ export const ReviewForm = ({ productId, isOpened, className, ...props }: ReviewF
         </form>
     );
 };
+
+ReviewForm.displayName = 'ReviewForm';

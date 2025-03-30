@@ -1,4 +1,3 @@
-/* eslint-disable */
 import { DetailedHTMLProps, HTMLAttributes} from "react";
 import { MenuItem } from "@/interfaces/menu.interface";
 
