@@ -28,12 +28,9 @@ jobs:
           # Application deployment
           ssh ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }} "
             cd /opt/docker/courses-app &&
-            export DOCKER_CLIENT_TIMEOUT=600 &&
-            export COMPOSE_HTTP_TIMEOUT=600 &&
-            export DOCKER_BUILDKIT=1 &&
-            docker-compose build app --no-cache &&
-            docker-compose down &&
-            docker-compose up -d
+            docker-compose down --rmi all --volumes --remove-orphans &&
+            docker system prune -a --volumes --force &&
+            docker-compose up -d --build
           "
           
           # SSH key cleanup
