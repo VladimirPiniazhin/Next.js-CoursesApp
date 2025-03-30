@@ -3,7 +3,17 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   images: {
     domains: ['localhost', 'courses-top.ru', 'old-images.hb.ru-msk.vkcs.cloud'],
-    unoptimized: false,
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: '**',
+      },
+      {
+        protocol: 'http',
+        hostname: '**',
+      },
+    ],
+    unoptimized: process.env.NODE_ENV === 'production',
   },
   webpack(config) {
     config.module.rules.push({
