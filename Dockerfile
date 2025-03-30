@@ -19,5 +19,4 @@ COPY --from=builder /opt/docker/courses-app/node_modules ./node_modules
 COPY --from=builder /opt/docker/courses-app/next.config.ts ./next.config.ts
 RUN mkdir -p public
 ENV NEXT_PUBLIC_DOMAIN=${NEXT_PUBLIC_DOMAIN}
-HEALTHCHECK --interval=30s --timeout=5s --start-period=5s --retries=3 CMD wget --no-verbose --tries=1 --spider http://localhost:3000 || exit 1
 CMD ["npm", "start"]
