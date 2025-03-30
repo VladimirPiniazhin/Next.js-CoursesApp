@@ -6,7 +6,12 @@ import { PageComponent } from "@/components/PageComponent/PageComponent";
 import { getProduct } from "@/api/product";
 import { Metadata } from "next";
 
-export async function generateMetadata({ params }: { params: { alias: string, type: string } }): Promise<Metadata> {
+type PageParams = Promise<{
+    alias: string;
+    type: string;
+}>;
+
+export async function generateMetadata({ params }: { params: PageParams }): Promise<Metadata> {
     const { alias } = await params;
     const page = await getPage(alias);
     return {
@@ -33,7 +38,7 @@ export async function generateStaticParams() {
     return result;
 }
 
-export default async function Page({ params }: { params: Promise<{ alias: string, type: string }> }) {
+export default async function Page({ params }: { params: PageParams }) {
     const { alias } = await params;
     
     try {

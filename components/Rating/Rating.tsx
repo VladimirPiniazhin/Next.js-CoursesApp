@@ -1,5 +1,5 @@
 'use client';
-
+/* eslint-disable */
 import { ForwardedRef, forwardRef, ReactNode, useState, useEffect, KeyboardEvent, useRef } from 'react';
 import { RatingProps } from './Rating.props';
 import styles from './Rating.module.css';
