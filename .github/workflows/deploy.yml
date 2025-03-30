@@ -28,11 +28,11 @@ jobs:
           # Application deployment
           ssh ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }} "
             cd /opt/docker/courses-app &&
-            docker-compose down --rmi all --volumes --remove-orphans &&
-            docker system prune -a --volumes --force &&
-            export DOCKER_CLIENT_TIMEOUT=300 &&
-            export COMPOSE_HTTP_TIMEOUT=300 &&
-            docker-compose build --no-cache &&
+            export DOCKER_CLIENT_TIMEOUT=600 &&
+            export COMPOSE_HTTP_TIMEOUT=600 &&
+            export DOCKER_BUILDKIT=1 &&
+            docker-compose build app --no-cache &&
+            docker-compose down &&
             docker-compose up -d
           "
           
