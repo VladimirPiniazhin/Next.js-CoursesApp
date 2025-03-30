@@ -3,11 +3,12 @@ WORKDIR /opt/docker/courses-app
 ARG NEXT_PUBLIC_DOMAIN
 ENV NEXT_PUBLIC_DOMAIN=${NEXT_PUBLIC_DOMAIN}
 COPY package*.json ./
-RUN npm install
+RUN npm ci --only=production
 COPY . .
 RUN npm run build
 RUN mkdir -p public
-RUN npm prune --production && \
+RUN mkdir -p public && \
+    npm prune --production && \
     rm -rf .git node_modules/.cache
 
 FROM node:20-alpine AS runner
