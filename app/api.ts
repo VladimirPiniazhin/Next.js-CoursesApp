@@ -2,13 +2,13 @@ const domain = process.env.NEXT_PUBLIC_DOMAIN || 'https://courses-top.ru';
 
 export const API = {
     topPage: {
-        find: process.env.NEXT_PUBLIC_DOMAIN + '/api/top-page/find',
-        byAlias: process.env.NEXT_PUBLIC_DOMAIN + '/api/top-page/byAlias/',
+        find: domain + '/api/top-page/find',
+        byAlias: domain + '/api/top-page/byAlias/',
     },
     product: {
-        find: process.env.NEXT_PUBLIC_DOMAIN + '/api/product/find',
+        find: domain + '/api/product/find',
     },
     review: {
-        createDemo: process.env.NEXT_PUBLIC_DOMAIN + '/api/review/create-demo',
+        createDemo: domain + '/api/review/create-demo',
     },
 };
