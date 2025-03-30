@@ -33,14 +33,7 @@ export async function generateStaticParams() {
     return result;
 }
 
-interface PageProps {
-    params: {
-        alias: string;
-        type: string;
-    }
-}
-
-export default async function Page({ params }: PageProps) {
+export default async function Page({ params }: { params: Promise<{ alias: string, type: string }> }) {
     const { alias } = await params;
     
     try {
