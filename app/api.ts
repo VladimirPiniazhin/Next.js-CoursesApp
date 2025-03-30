@@ -1,3 +1,5 @@
+const domain = process.env.NEXT_PUBLIC_DOMAIN || 'https://courses-top.ru';
+
 export const API = {
     topPage: {
         find: process.env.NEXT_PUBLIC_DOMAIN + '/api/top-page/find',
