@@ -24,10 +24,10 @@ const nextConfig: NextConfig = {
     return config;
   },
   typescript: {
-    ignoreBuildErrors: true,
+    ignoreBuildErrors: false,
   },
   eslint: {
-    ignoreDuringBuilds: true,
+    ignoreDuringBuilds: false,
   },
   distDir: process.env.NODE_ENV === 'development' ? '.next-dev' : '.next'
 };
