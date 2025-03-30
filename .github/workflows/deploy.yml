@@ -9,18 +9,29 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
       
-      - name: Deploy to server
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.REMOTE_HOST }}
-          username: ${{ secrets.REMOTE_USER }}
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
-          command_timeout: 30m
-          script: |
-            cd /opt/docker/courses-app
-            git pull
-            docker-compose down --rmi all --volumes --remove-orphans
-            docker system prune -a --volumes --force
+      - name: Sync and Deploy
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        run: |
+          # SSH settings
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H ${{ secrets.REMOTE_HOST }} >> ~/.ssh/known_hosts
+          
+          # Files synchronization
+          rsync -avz --delete --exclude='.git' ./ ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }}:/opt/docker/courses-app/
+          
+          # Application deployment
+          ssh ${{ secrets.REMOTE_USER }}@${{ secrets.REMOTE_HOST }} "
+            cd /opt/docker/courses-app &&
+            docker-compose down --rmi all --volumes --remove-orphans &&
+            docker system prune -a --volumes --force &&
             docker-compose up -d --build
+          "
+          
+          # SSH key cleanup
+          rm -f ~/.ssh/id_rsa
