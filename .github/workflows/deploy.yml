@@ -21,6 +21,6 @@ jobs:
           script: |
             cd /opt/docker/courses-app
             git pull
-            docker container prune -f
-            docker-compose down
+            docker-compose down --rmi all --volumes --remove-orphans
+            docker system prune -a --volumes --force
             docker-compose up -d --build
