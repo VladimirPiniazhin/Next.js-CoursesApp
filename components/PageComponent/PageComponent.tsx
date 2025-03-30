@@ -9,6 +9,7 @@ import { Advantages } from "../Advantages/Advantages";
 import { Sort, SortEnum } from "../Sort/Sort";
 import { sortReducer } from "./sort.reducer";
 import { Product } from "../Product/Product";
+import { motion, AnimatePresence } from 'framer-motion'; 
 //import { useScrollY } from "@/hooks/useScrollY";
 
 export const PageComponent =({page, products}: PageComponentProps): ReactNode => {
@@ -31,11 +32,23 @@ export const PageComponent =({page, products}: PageComponentProps): ReactNode =>
                     <Sort sort={sort} setSort={setSort}/>
                 </div>
                 <div className={styles.products}>
-                    {sortedProducts && sortedProducts.map(p => (
-                        <Product 
-                            product={p} 
-                            key={p._id}
-                        />))}
+                    <AnimatePresence mode="sync">
+                        {sortedProducts && sortedProducts.map(p => (
+                            <motion.div 
+                                key={p._id}
+                                layout="position"
+                                initial={{ opacity: 0 }}
+                                animate={{ opacity: 1 }}
+                                exit={{ opacity: 0 }}
+                                transition={{ 
+                                    duration: 0.2, 
+                                    ease: "easeInOut" 
+                                }}
+                            >
+                                <Product product={p} />
+                            </motion.div>
+                        ))}
+                    </AnimatePresence>
                 </div>               
                 <div className={styles.hhtitle}>
                     <Htag tag="h2">Вакансии - {page.category}</Htag>
