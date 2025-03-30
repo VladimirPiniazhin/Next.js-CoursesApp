@@ -3,7 +3,7 @@ WORKDIR /opt/docker/courses-app
 ARG NEXT_PUBLIC_DOMAIN
 ENV NEXT_PUBLIC_DOMAIN=${NEXT_PUBLIC_DOMAIN}
 COPY package*.json ./
-RUN npm ci --only=production
+RUN npm install
 COPY . .
 RUN npm run build
 RUN mkdir -p public
