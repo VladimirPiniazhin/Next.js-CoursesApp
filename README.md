@@ -1,4 +1,4 @@
-# Courses App
+# Courses App (expample: https://vladimirpiniazhin.github.io/Next.js-CoursesApp/)
 
 An educational courses browsing and search application built with Next.js 15.
 
