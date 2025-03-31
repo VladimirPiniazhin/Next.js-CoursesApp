@@ -6,14 +6,14 @@ import { PageComponent } from "@/components/PageComponent/PageComponent";
 import { getProduct } from "@/api/product";
 import { Metadata } from "next";
 
-type PageParams = Promise<{
+interface PageParams {
     alias: string;
     type: string;
-}>;
+}
 
-export async function generateMetadata({ params }: { params: PageParams }): Promise<Metadata> {
-    const { alias } = await params;
-    const page = await getPage(alias);
+export async function generateMetadata({ params }: { params: Promise<PageParams> }): Promise<Metadata> {
+    const resolvedParams = await params;
+    const page = await getPage(resolvedParams.alias);
     return {
         title: page?.metaTitle,
         description: page?.metaDescription
@@ -38,11 +38,15 @@ export async function generateStaticParams() {
     return result;
 }
 
-export default async function Page({ params }: { params: PageParams }) {
-    const { alias } = await params;
+export default async function TopPage({ params }: { params: Promise<PageParams> }) {
+    const resolvedParams = await params;
+    const firstCategoryItem = firstLevelMenu.find(m => m.route === resolvedParams.type);
+    if (!firstCategoryItem) {
+        notFound();
+    }
     
     try {
-        const page = await getPage(alias);
+        const page = await getPage(resolvedParams.alias);
         
         if (!page) {
             notFound();
