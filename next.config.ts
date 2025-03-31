@@ -1,9 +1,12 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  output: 'export',
   images: {
+    unoptimized: true,
     domains: ['localhost', 'courses-top.ru', 'old-images.hb.ru-msk.vkcs.cloud'],
   },
+  basePath: '/Next.js-CoursesApp',
   webpack(config) {
     config.module.rules.push({
       test: /\.svg$/,
