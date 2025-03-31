@@ -36,7 +36,7 @@ The application will be available at [http://localhost:3000](http://localhost:30
 docker-compose up --build
 ```
 
-The application will be available at [http://localhost:3000](http://localhost:3000)
+The application will be available at [http://localhost](http://localhost)
 
 ## Production Build
 
