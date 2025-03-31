@@ -1,0 +1,898 @@
+1:"$Sreact.fragment"
+3:I[880,["9","static/chunks/9-b93cb4082fd8b9db.js","381","static/chunks/381-59927a3596d54a79.js","402","static/chunks/402-51c328427a634984.js","26","static/chunks/26-505dad87a8c794aa.js","177","static/chunks/app/layout-21ff851707544d8f.js"],"Search"]
+5:I[7555,[],""]
+6:I[1295,[],""]
+7:I[2732,["9","static/chunks/9-b93cb4082fd8b9db.js","381","static/chunks/381-59927a3596d54a79.js","402","static/chunks/402-51c328427a634984.js","26","static/chunks/26-505dad87a8c794aa.js","177","static/chunks/app/layout-21ff851707544d8f.js"],"Up"]
+8:I[7428,["427","static/chunks/app/%5Btype%5D/%5Balias%5D/error-b58ce5a7f9f261de.js"],"default"]
+a:I[9665,[],"OutletBoundary"]
+d:I[9665,[],"ViewportBoundary"]
+f:I[9665,[],"MetadataBoundary"]
+11:I[6614,[],""]
+:HL["/Next.js-CoursesApp/_next/static/media/c4250770ab8708b6-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Next.js-CoursesApp/_next/static/css/791d494f11d47a82.css","style"]
+:HL["/Next.js-CoursesApp/_next/static/css/de81b6c922e73159.css","style"]
+:HL["/Next.js-CoursesApp/_next/static/css/ef46430500627010.css","style"]
+:HL["/Next.js-CoursesApp/_next/static/css/e5f4e6fed09602e0.css","style"]
+:HL["/Next.js-CoursesApp/_next/static/css/977eecfe2afda3dd.css","style"]
+0:{"P":null,"b":"mSRmbSId1S_4CVN0t_siy","p":"/Next.js-CoursesApp","c":["","courses","mobile-app-design"],"i":false,"f":[[["",{"children":[["type","courses","d"],{"children":[["alias","mobile-app-design","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/Next.js-CoursesApp/_next/static/css/791d494f11d47a82.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/Next.js-CoursesApp/_next/static/css/de81b6c922e73159.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","2",{"rel":"stylesheet","href":"/Next.js-CoursesApp/_next/static/css/ef46430500627010.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","3",{"rel":"stylesheet","href":"/Next.js-CoursesApp/_next/static/css/e5f4e6fed09602e0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","4",{"rel":"stylesheet","href":"/Next.js-CoursesApp/_next/static/css/977eecfe2afda3dd.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_a6237d layout_wrapper__s7gfs","children":["$L2",["$","div",null,{"className":"layout_sidebar__SmN0y Sidebar_sidebar__BeuG1","children":[["$","div",null,{"className":"Sidebar_logo__ZDiK1","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":100,"height":100,"className":"logo2_svg__icon","viewBox":"0 0 1024 1024","children":[["$","path",null,{"fill":"#050D42","d":"M512 960c-92.8 0-160-200-160-448S419.2 64 512 64s160 200 160 448-67.2 448-160 448m0-32c65.6 0 128-185.6 128-416S577.6 96 512 96 384 281.6 384 512s62.4 416 128 416"}],["$","path",null,{"fill":"#050D42","d":"M124.8 736c-48-80 92.8-238.4 307.2-363.2S852.8 208 899.2 288 806.4 526.4 592 651.2 171.2 816 124.8 736m27.2-16c33.6 57.6 225.6 17.6 424-97.6S905.6 361.6 872 304s-225.6-17.6-424 97.6S118.4 662.4 152 720"}],["$","path",null,{"fill":"#050D42","d":"M899.2 736c-46.4 80-254.4 38.4-467.2-84.8S76.8 368 124.8 288s254.4-38.4 467.2 84.8S947.2 656 899.2 736M872 720c33.6-57.6-97.6-203.2-296-318.4S184 246.4 152 304s97.6 203.2 296 318.4S840 777.6 872 720"}],["$","path",null,{"fill":"#6344E8","d":"M512 592c-44.8 0-80-35.2-80-80s35.2-80 80-80 80 35.2 80 80-35.2 80-80 80M272 312c-27.2 0-48-20.8-48-48s20.8-48 48-48 48 20.8 48 48-20.8 48-48 48m144 568c-27.2 0-48-20.8-48-48s20.8-48 48-48 48 20.8 48 48-20.8 48-48 48m448-432c-27.2 0-48-20.8-48-48s20.8-48 48-48 48 20.8 48 48-20.8 48-48 48"}]]}]}],["$","$L3",null,{}],"$L4"]}],["$","main",null,{"className":"layout_body__7rhn1","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"layout_footer__DcfK2 Footer_footer__o4_Ec","children":[["$","div",null,{"children":["TopApp © ","2025"," Все права защищены"]}],["$","a",null,{"href":"#","target":"_blank","children":"Пользовательское соглашение"}],["$","a",null,{"href":"#","target":"_blank","children":"Политика конфиденциальности"}]]}],["$","$L7",null,{}]]}]}]]}],{"children":[["type","courses","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["alias","mobile-app-design","d"],["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$8","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9","$undefined",null,["$","$La",null,{"children":["$Lb","$Lc",null]}]]}],{},null,false]},[["$","p","l",{"children":"Загрузка..."}],[],[]],false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","TfUxmV6dNBjCrGQJSonDe",{"children":[["$","$Ld",null,{"children":"$Le"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$Lf",null,{"children":"$L10"}]]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:I[6117,["9","static/chunks/9-b93cb4082fd8b9db.js","381","static/chunks/381-59927a3596d54a79.js","402","static/chunks/402-51c328427a634984.js","26","static/chunks/26-505dad87a8c794aa.js","177","static/chunks/app/layout-21ff851707544d8f.js"],"Header"]
+2:["$","$L12",null,{"menu":[{"_id":{"secondCategory":"Аналитика"},"pages":[{"alias":"financial-analytics","title":"Курсы по финансовой аналитике","_id":"6068cc76d084b85d3f1abf56","category":"Финансовая аналитика"},{"alias":"big-data","title":"Курсы по Big Data","_id":"606e9acae35aa0914a4ea834","category":"Big Data"},{"alias":"data-science","title":"Курсы по Data Science","_id":"606e9b4ce35aa002e74ea835","category":"Data Science"},{"alias":"machine-learning","title":"Курсы по машинному обучению","_id":"606e9bc1e35aa0ed184ea836","category":"Машинное обучение"},{"alias":"excel","title":"Курсы Excel","_id":"61055589468b5529b92acf77","category":"Excel"},{"alias":"business-analytics","title":"Курсы по бизнес-аналитике","_id":"61b910e2f73c5eb5542c9d68","category":"Бизнес аналитика"},{"alias":"analytics-for-executives","title":"Курсы аналитики для руководителей","_id":"61b91da3f73c5ecb192ca108","category":"Аналитика для руководителей"},{"alias":"power-bi","title":"Курсы аналитики Power BI","_id":"61b91db1f73c5e0c3e2ca10f","category":"Аналитика Power BI"},{"alias":"data-analytics","title":"Курсы по аналитике данных","_id":"61ba6d8bf73c5e63482e01ec","category":"Аналитика данных"},{"alias":"system-analytics","title":"Курсы по системной аналитике","_id":"61ba6e21f73c5e512b2e01f8","category":"Системная аналитика"}]},{"_id":{"secondCategory":"Бизнес"},"pages":[{"alias":"finansovaya-gramotnost","title":"Курсы финансовой грамотности","_id":"6072eadce35aa07a784ea9b3","category":"Финансовая грамотность"},{"alias":"entrepreneurs","title":"Курсы предпринимательства","_id":"6073095ae35aa03b954ea9b7","category":"Предпринимательство"},{"alias":"oratorskoe-masterstvo","title":"Курсы ораторского мастерства","_id":"60f097a883c99b09179717ca","category":"Ораторское мастерство"},{"alias":"leader","title":"Курсы для руководителей","_id":"60f1b83083c99b5787971d99","category":"Курсы для руководителей"},{"alias":"upravlenie-personalom","title":"Курсы управления персоналом","_id":"60f1bf1d83c99b646b971e13","category":"Управление персоналом"},{"alias":"mba","title":"Курсы MBA","_id":"60f1cee583c99b0387971e49","category":"MBA"},{"alias":"buhgalter","title":"Курсы бухгалтеров","_id":"61277c0c468b556da42ef30c","category":"Курсы бухгалтеров"},{"alias":"investing","title":"Курсы по инвестированию","_id":"619558d939ade96d85f6868b","category":"Инвестирование"},{"alias":"trading","title":"Курсы трейдинга","_id":"620184244f7539b1b110bf71","category":"Курсы трейдинга"},{"alias":"1c-buhgalteriya","title":"Курсы 1С Бухгалтерии","_id":"62079b7b4f7539b1b12b9a44","category":"1С Бухгалтерия"}]},{"_id":{"secondCategory":"Дизайн"},"pages":[{"alias":"graphic-design","title":"Курсы графического дизайна","_id":"605a404a9ccee1beca51a7c6","category":"Графический дизайн"},{"alias":"dizayn-interera","title":"Курсы дизайна интерьера","_id":"606088b09ccee18c9951a7d0","category":"Дизайн интерьера"},{"alias":"web-design","title":"Курсы веб-дизайна","_id":"60608bba9ccee12e2b51a7d3","category":"Веб дизайн"},{"alias":"photoshop","title":"Курсы Photoshop","_id":"6060c3769ccee144eb51a7ed","category":"Photoshop"},{"alias":"ArchiCAD","title":"Курсы ArchiCAD","_id":"6069d0fbd084b81dca1abfa2","category":"ArchiCAD"},{"alias":"landscape-design","title":"Курсы ландшафтного дизайна","_id":"6069d283d084b8d0091abfa4","category":"Ландшафтный дизайн"},{"alias":"sketching","title":"Курсы скетчинга","_id":"6072f7b9e35aa072b34ea9b5","category":"Скетчинг"},{"alias":"Illustration","title":"Курсы иллюстрации","_id":"6072fc3fe35aa0826c4ea9b6","category":"Иллюстрация"},{"alias":"3d","title":"Курсы 3D-моделирования","_id":"611d6335468b55193b2dc44b","category":"3d"},{"alias":"figma","title":"Курсы Figma","_id":"618562b8d0b45d823609894f","category":"Figma"},{"alias":"video","title":"Курсы по видеомонтажу","_id":"61856486d0b45dbf02098ad2","category":"Видеомонтаж"},{"alias":"ux-ui","title":"Курсы UX/UI-дизайна","_id":"618d7428d0b45d7dc60b6b31","category":"UX/UI"},{"alias":"motion-design","title":"Курсы по моушен-дизайну","_id":"61c0d37ff73c5e26df33bcd7","category":"Моушен дизайн"},{"alias":"3ds-max","title":"Курсы Autodesk 3ds Max","_id":"61c0da8ff73c5e130333c3c6","category":"Autodesk 3ds Max"},{"alias":"3d-animation","title":"Курсы 3D-анимации","_id":"61c0df0af73c5e38d033c6a5","category":"3D-анимация"},{"alias":"mobile-app-design","title":"Курсы дизайна мобильных приложений","_id":"61c0df56f73c5e9c4133c6ae","category":"Дизайн мобильных приложений"},{"alias":"typography","title":"Курсы по типографике","_id":"61c0e3aff73c5e669e33e2be","category":"Типографика"},{"alias":"adobe-after-effects","title":"Курсы Adobe After Effects","_id":"61c0ea5af73c5e2a7e33ec44","category":"Adobe After Effects"},{"alias":"autocad","title":"Курсы по AutoCAD","_id":"61c0eae4f73c5e06f933ec60","category":"AutoCAD"},{"alias":"calligraphy","title":"Курсы каллиграфии","_id":"62059aeb4f7539b1b12460c8","category":"Каллиграфия"},{"alias":"cinema-4D","title":"Курсы Cinema 4D","_id":"6206b6f44f7539b1b12919a1","category":"Cinema 4D"}]},{"_id":{"secondCategory":"Игры"},"pages":[{"alias":"gamedesign","title":"Курсы геймдизайна","_id":"60e1c96c83c99b15669695bf","category":"Геймдизайн"},{"alias":"chess","title":"Курсы шахмат","_id":"60e5feba83c99b80c896b402","category":"Шахматы"},{"alias":"unity","title":"Курсы Unity","_id":"61031097468b556a3b2a8c9a","category":"Unity"},{"alias":"unreal-engine","title":"Курсы Unreal Engine","_id":"6206babb4f7539b1b1292540","category":"Unreal Engine"}]},{"_id":{"secondCategory":"Красота и здоровье"},"pages":[{"alias":"stylist","title":"Курсы стилиста","_id":"6208f0d24f7539b1b130f426","category":"Стилист"}]},{"_id":{"secondCategory":"Маркетинг"},"pages":[{"alias":"seo","title":"Курсы SEO","_id":"60662f5a28780843dda47ada","category":"SEO"},{"alias":"smm","title":"Курсы SMM","_id":"6072e9d8e35aa0bf474ea9b2","category":"SMM"},{"alias":"targeting","title":"Курсы таргетированной рекламы","_id":"6073f5cce35aa01ad74eaa5f","category":"Таргетированная реклама"},{"alias":"internet-marketing","title":"Курсы интернет-маркетинга","_id":"618d7303d0b45dfe960b6ae9","category":"Интернет-маркетинг"},{"alias":"direct","title":"Курсы Яндекс Директ","_id":"61b5fb66f73c5e16212a6501","category":"Яндекс Директ"}]},{"_id":{"secondCategory":"Программирование"},"pages":[{"alias":"python","title":"Курсы Python","_id":"6066183d2878082716a47ac1","category":"Python"},{"alias":"1C-programming","title":"Курсы 1С программирования","_id":"606e11d0e35aa030b14ea808","category":"1C программирование"},{"alias":"react-js","title":"Курсы React.js","_id":"609e98e77b822860385b08bc","category":"React.js"},{"alias":"qa","title":"Курсы тестировщика","_id":"60f0936b83c99b3f4a9717bb","category":"QA-тестирование"},{"alias":"webdev","title":"Курсы по созданию сайтов","_id":"611d6e84468b5559632dc591","category":"Создание сайтов"},{"alias":"php","title":"Курсы PHP","_id":"61276aa8468b55bad02ef050","category":"PHP"},{"alias":"sql","title":"Курсы по SQL","_id":"61277ceb468b55ebc12ef3b1","category":"SQL"},{"alias":"js","title":"Курсы JavaScript","_id":"61278184468b551f792ef400","category":"JavaScript"},{"alias":"nodejs","title":"Курсы Node JS","_id":"61279fa2468b551f4a2f0099","category":"Node.js"},{"alias":"programming","title":"Курсы программирования","_id":"618c1777d0b45de4700af336","category":"Программирование"},{"alias":"java","title":"Курсы Java","_id":"618c35a4d0b45d25640afbe5","category":"Java"},{"alias":"android","title":"Курсы Android-разработки","_id":"618c36c2d0b45d20ca0afbfb","category":"Android"},{"alias":"devops","title":"Курсы DevOps","_id":"6192cfe239ade9ca64f48e14","category":"DevOps"},{"alias":"sysadmin","title":"Курсы по системному администрированию","_id":"6192d5fe39ade92c34f48fc4","category":"Системное администрирование"},{"alias":"frontend","title":"Курсы Frontend","_id":"61b5ef48f73c5e3fb92a5794","category":"Frontend"},{"alias":"docker","title":"Курсы Docker","_id":"62140e7759b2c7c1f162ae0a","category":"Docker"},{"alias":"ansible","title":"Курсы Ansible","_id":"62140e7d59b2c7c1f162ae15","category":"Ansible"},{"alias":"nextjs","title":"Курсы Next.js","_id":"62140e8759b2c7c1f162ae20","category":"Next.js"},{"alias":"typescript","title":"Курсы TypeScript","_id":"62140e8c59b2c7c1f162ae42","category":"TypeScript"}]},{"_id":{"secondCategory":"Прочее"},"pages":[{"alias":"photography","title":"Курсы фотографии","_id":"6072e5bfe35aa07cc34ea9b0","category":"Курсы фотографии"},{"alias":"psychology","title":"Курсы по психологии","_id":"6202e92c4f7539b1b117852e","category":"Психология"},{"alias":"journalism","title":"Курсы журналистики","_id":"6207a77c4f7539b1b12bcc24","category":"Журналистика"}]},{"_id":{"secondCategory":"Создание контента"},"pages":[{"alias":"copywriting","title":"Курсы копирайтинга","_id":"6072f73be35aa002464ea9b4","category":"Копирайтинг"}]},{"_id":{"secondCategory":"Управление"},"pages":[{"alias":"product-manager","title":"Курсы Product Manager","_id":"614d63b9468b556dbe349d26","category":"Product Manager"},{"alias":"project","title":"Курсы Project Manager","_id":"6189909ed0b45d08970a6532","category":"Project Manager"},{"alias":"sales-manager","title":"Курсы менеджеров по продажам","_id":"619c099739ade91e81f9bfd9","category":"Менеджер по продажам"},{"alias":"marketplace-manager","title":"Курсы менеджера маркетплейсов","_id":"620182c74f7539b1b110b688","category":"Менеджер маркетплейсов"}]},{"_id":{"secondCategory":"Языки"},"pages":[{"alias":"english","title":"Курсы английского языка","_id":"61dc4da6bb018480524c112c","category":"Английский язык"}]}]}]
+13:I[3797,["9","static/chunks/9-b93cb4082fd8b9db.js","381","static/chunks/381-59927a3596d54a79.js","402","static/chunks/402-51c328427a634984.js","26","static/chunks/26-505dad87a8c794aa.js","177","static/chunks/app/layout-21ff851707544d8f.js"],"MenuClient"]
+4:["$","$L13",null,{"menu":[{"_id":{"secondCategory":"Аналитика"},"pages":[{"alias":"financial-analytics","title":"Курсы по финансовой аналитике","_id":"6068cc76d084b85d3f1abf56","category":"Финансовая аналитика"},{"alias":"big-data","title":"Курсы по Big Data","_id":"606e9acae35aa0914a4ea834","category":"Big Data"},{"alias":"data-science","title":"Курсы по Data Science","_id":"606e9b4ce35aa002e74ea835","category":"Data Science"},{"alias":"machine-learning","title":"Курсы по машинному обучению","_id":"606e9bc1e35aa0ed184ea836","category":"Машинное обучение"},{"alias":"excel","title":"Курсы Excel","_id":"61055589468b5529b92acf77","category":"Excel"},{"alias":"business-analytics","title":"Курсы по бизнес-аналитике","_id":"61b910e2f73c5eb5542c9d68","category":"Бизнес аналитика"},{"alias":"analytics-for-executives","title":"Курсы аналитики для руководителей","_id":"61b91da3f73c5ecb192ca108","category":"Аналитика для руководителей"},{"alias":"power-bi","title":"Курсы аналитики Power BI","_id":"61b91db1f73c5e0c3e2ca10f","category":"Аналитика Power BI"},{"alias":"data-analytics","title":"Курсы по аналитике данных","_id":"61ba6d8bf73c5e63482e01ec","category":"Аналитика данных"},{"alias":"system-analytics","title":"Курсы по системной аналитике","_id":"61ba6e21f73c5e512b2e01f8","category":"Системная аналитика"}]},{"_id":{"secondCategory":"Бизнес"},"pages":[{"alias":"finansovaya-gramotnost","title":"Курсы финансовой грамотности","_id":"6072eadce35aa07a784ea9b3","category":"Финансовая грамотность"},{"alias":"entrepreneurs","title":"Курсы предпринимательства","_id":"6073095ae35aa03b954ea9b7","category":"Предпринимательство"},{"alias":"oratorskoe-masterstvo","title":"Курсы ораторского мастерства","_id":"60f097a883c99b09179717ca","category":"Ораторское мастерство"},{"alias":"leader","title":"Курсы для руководителей","_id":"60f1b83083c99b5787971d99","category":"Курсы для руководителей"},{"alias":"upravlenie-personalom","title":"Курсы управления персоналом","_id":"60f1bf1d83c99b646b971e13","category":"Управление персоналом"},{"alias":"mba","title":"Курсы MBA","_id":"60f1cee583c99b0387971e49","category":"MBA"},{"alias":"buhgalter","title":"Курсы бухгалтеров","_id":"61277c0c468b556da42ef30c","category":"Курсы бухгалтеров"},{"alias":"investing","title":"Курсы по инвестированию","_id":"619558d939ade96d85f6868b","category":"Инвестирование"},{"alias":"trading","title":"Курсы трейдинга","_id":"620184244f7539b1b110bf71","category":"Курсы трейдинга"},{"alias":"1c-buhgalteriya","title":"Курсы 1С Бухгалтерии","_id":"62079b7b4f7539b1b12b9a44","category":"1С Бухгалтерия"}]},{"_id":{"secondCategory":"Дизайн"},"pages":[{"alias":"graphic-design","title":"Курсы графического дизайна","_id":"605a404a9ccee1beca51a7c6","category":"Графический дизайн"},{"alias":"dizayn-interera","title":"Курсы дизайна интерьера","_id":"606088b09ccee18c9951a7d0","category":"Дизайн интерьера"},{"alias":"web-design","title":"Курсы веб-дизайна","_id":"60608bba9ccee12e2b51a7d3","category":"Веб дизайн"},{"alias":"photoshop","title":"Курсы Photoshop","_id":"6060c3769ccee144eb51a7ed","category":"Photoshop"},{"alias":"ArchiCAD","title":"Курсы ArchiCAD","_id":"6069d0fbd084b81dca1abfa2","category":"ArchiCAD"},{"alias":"landscape-design","title":"Курсы ландшафтного дизайна","_id":"6069d283d084b8d0091abfa4","category":"Ландшафтный дизайн"},{"alias":"sketching","title":"Курсы скетчинга","_id":"6072f7b9e35aa072b34ea9b5","category":"Скетчинг"},{"alias":"Illustration","title":"Курсы иллюстрации","_id":"6072fc3fe35aa0826c4ea9b6","category":"Иллюстрация"},{"alias":"3d","title":"Курсы 3D-моделирования","_id":"611d6335468b55193b2dc44b","category":"3d"},{"alias":"figma","title":"Курсы Figma","_id":"618562b8d0b45d823609894f","category":"Figma"},{"alias":"video","title":"Курсы по видеомонтажу","_id":"61856486d0b45dbf02098ad2","category":"Видеомонтаж"},{"alias":"ux-ui","title":"Курсы UX/UI-дизайна","_id":"618d7428d0b45d7dc60b6b31","category":"UX/UI"},{"alias":"motion-design","title":"Курсы по моушен-дизайну","_id":"61c0d37ff73c5e26df33bcd7","category":"Моушен дизайн"},{"alias":"3ds-max","title":"Курсы Autodesk 3ds Max","_id":"61c0da8ff73c5e130333c3c6","category":"Autodesk 3ds Max"},{"alias":"3d-animation","title":"Курсы 3D-анимации","_id":"61c0df0af73c5e38d033c6a5","category":"3D-анимация"},{"alias":"mobile-app-design","title":"Курсы дизайна мобильных приложений","_id":"61c0df56f73c5e9c4133c6ae","category":"Дизайн мобильных приложений"},{"alias":"typography","title":"Курсы по типографике","_id":"61c0e3aff73c5e669e33e2be","category":"Типографика"},{"alias":"adobe-after-effects","title":"Курсы Adobe After Effects","_id":"61c0ea5af73c5e2a7e33ec44","category":"Adobe After Effects"},{"alias":"autocad","title":"Курсы по AutoCAD","_id":"61c0eae4f73c5e06f933ec60","category":"AutoCAD"},{"alias":"calligraphy","title":"Курсы каллиграфии","_id":"62059aeb4f7539b1b12460c8","category":"Каллиграфия"},{"alias":"cinema-4D","title":"Курсы Cinema 4D","_id":"6206b6f44f7539b1b12919a1","category":"Cinema 4D"}]},{"_id":{"secondCategory":"Игры"},"pages":[{"alias":"gamedesign","title":"Курсы геймдизайна","_id":"60e1c96c83c99b15669695bf","category":"Геймдизайн"},{"alias":"chess","title":"Курсы шахмат","_id":"60e5feba83c99b80c896b402","category":"Шахматы"},{"alias":"unity","title":"Курсы Unity","_id":"61031097468b556a3b2a8c9a","category":"Unity"},{"alias":"unreal-engine","title":"Курсы Unreal Engine","_id":"6206babb4f7539b1b1292540","category":"Unreal Engine"}]},{"_id":{"secondCategory":"Красота и здоровье"},"pages":[{"alias":"stylist","title":"Курсы стилиста","_id":"6208f0d24f7539b1b130f426","category":"Стилист"}]},{"_id":{"secondCategory":"Маркетинг"},"pages":[{"alias":"seo","title":"Курсы SEO","_id":"60662f5a28780843dda47ada","category":"SEO"},{"alias":"smm","title":"Курсы SMM","_id":"6072e9d8e35aa0bf474ea9b2","category":"SMM"},{"alias":"targeting","title":"Курсы таргетированной рекламы","_id":"6073f5cce35aa01ad74eaa5f","category":"Таргетированная реклама"},{"alias":"internet-marketing","title":"Курсы интернет-маркетинга","_id":"618d7303d0b45dfe960b6ae9","category":"Интернет-маркетинг"},{"alias":"direct","title":"Курсы Яндекс Директ","_id":"61b5fb66f73c5e16212a6501","category":"Яндекс Директ"}]},{"_id":{"secondCategory":"Программирование"},"pages":[{"alias":"python","title":"Курсы Python","_id":"6066183d2878082716a47ac1","category":"Python"},{"alias":"1C-programming","title":"Курсы 1С программирования","_id":"606e11d0e35aa030b14ea808","category":"1C программирование"},{"alias":"react-js","title":"Курсы React.js","_id":"609e98e77b822860385b08bc","category":"React.js"},{"alias":"qa","title":"Курсы тестировщика","_id":"60f0936b83c99b3f4a9717bb","category":"QA-тестирование"},{"alias":"webdev","title":"Курсы по созданию сайтов","_id":"611d6e84468b5559632dc591","category":"Создание сайтов"},{"alias":"php","title":"Курсы PHP","_id":"61276aa8468b55bad02ef050","category":"PHP"},{"alias":"sql","title":"Курсы по SQL","_id":"61277ceb468b55ebc12ef3b1","category":"SQL"},{"alias":"js","title":"Курсы JavaScript","_id":"61278184468b551f792ef400","category":"JavaScript"},{"alias":"nodejs","title":"Курсы Node JS","_id":"61279fa2468b551f4a2f0099","category":"Node.js"},{"alias":"programming","title":"Курсы программирования","_id":"618c1777d0b45de4700af336","category":"Программирование"},{"alias":"java","title":"Курсы Java","_id":"618c35a4d0b45d25640afbe5","category":"Java"},{"alias":"android","title":"Курсы Android-разработки","_id":"618c36c2d0b45d20ca0afbfb","category":"Android"},{"alias":"devops","title":"Курсы DevOps","_id":"6192cfe239ade9ca64f48e14","category":"DevOps"},{"alias":"sysadmin","title":"Курсы по системному администрированию","_id":"6192d5fe39ade92c34f48fc4","category":"Системное администрирование"},{"alias":"frontend","title":"Курсы Frontend","_id":"61b5ef48f73c5e3fb92a5794","category":"Frontend"},{"alias":"docker","title":"Курсы Docker","_id":"62140e7759b2c7c1f162ae0a","category":"Docker"},{"alias":"ansible","title":"Курсы Ansible","_id":"62140e7d59b2c7c1f162ae15","category":"Ansible"},{"alias":"nextjs","title":"Курсы Next.js","_id":"62140e8759b2c7c1f162ae20","category":"Next.js"},{"alias":"typescript","title":"Курсы TypeScript","_id":"62140e8c59b2c7c1f162ae42","category":"TypeScript"}]},{"_id":{"secondCategory":"Прочее"},"pages":[{"alias":"photography","title":"Курсы фотографии","_id":"6072e5bfe35aa07cc34ea9b0","category":"Курсы фотографии"},{"alias":"psychology","title":"Курсы по психологии","_id":"6202e92c4f7539b1b117852e","category":"Психология"},{"alias":"journalism","title":"Курсы журналистики","_id":"6207a77c4f7539b1b12bcc24","category":"Журналистика"}]},{"_id":{"secondCategory":"Создание контента"},"pages":[{"alias":"copywriting","title":"Курсы копирайтинга","_id":"6072f73be35aa002464ea9b4","category":"Копирайтинг"}]},{"_id":{"secondCategory":"Управление"},"pages":[{"alias":"product-manager","title":"Курсы Product Manager","_id":"614d63b9468b556dbe349d26","category":"Product Manager"},{"alias":"project","title":"Курсы Project Manager","_id":"6189909ed0b45d08970a6532","category":"Project Manager"},{"alias":"sales-manager","title":"Курсы менеджеров по продажам","_id":"619c099739ade91e81f9bfd9","category":"Менеджер по продажам"},{"alias":"marketplace-manager","title":"Курсы менеджера маркетплейсов","_id":"620182c74f7539b1b110b688","category":"Менеджер маркетплейсов"}]},{"_id":{"secondCategory":"Языки"},"pages":[{"alias":"english","title":"Курсы английского языка","_id":"61dc4da6bb018480524c112c","category":"Английский язык"}]}]}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+c:null
+10:[["$","title","0",{"children":"ТОП-7 курсов дизайна мобильных приложений онлайн | Обучение с нуля (2022)"}],["$","meta","1",{"name":"description","content":"Рейтинг лучших курсов дизайна мобильных приложений онлайн в 2022 году. Обучение дизайну для начинающих. Топ бесплатных и платных онлайн курсов для дизайнеров. Отзывы о курсах по дизайну мобильных приложений\n"}],["$","link","2",{"rel":"icon","href":"/Next.js-CoursesApp/favicon.ico","type":"image/x-icon","sizes":"16x16"}]]
+14:I[3270,["9","static/chunks/9-b93cb4082fd8b9db.js","402","static/chunks/402-51c328427a634984.js","458","static/chunks/app/%5Btype%5D/%5Balias%5D/page-6d642e3031d46531.js"],"PageComponent"]
+15:T1f4d,<h4><strong>Кому&nbsp;подойдёт курс</strong></h4>
+<ul>
+    <li><strong>Новичкам в дизайне</strong><br>С нуля освоите новую профессию и сможете найти работу на фрилансе или в агентстве</li>
+    <li><strong>Дизайнерам с&nbsp;небольшим опытом</strong><br>Систематизируете свои знания и дополните профессиональные навыки</li>
+    <li><strong>Специалистам смежных профессий</strong><br>Сможете расширить свои навыки и применять их в рабочих проектах</li>
+</ul>
+<p>&nbsp;<br></p>
+<h4><strong>Чему&nbsp;научитесь</strong></h4>
+<ul>
+    <li>Создавать интерфейсы, которые приведут пользователя к цели максимально просто</li>
+    <li>Работать с композицией, типографикой и шрифтами при разработке интерфейса</li>
+    <li>Создавать адаптивные дизайн-макеты веб- и мобильных интерфейсов</li>
+    <li>Работать с гайдлайнами Android и iOS и создавать интерактивные прототипы</li>
+    <li>Проводить юзабилити-тестирование мобильных приложений и передавать проект в разработку</li>
+    <li>Упаковывать и презентовать проект заказчику, оформлять собственное портфолио</li>
+</ul>
+<p>&nbsp;<br></p>
+<h4><strong>Программа курса</strong></h4>
+<p><strong>Основы Adobe Photoshop</strong><br>Если вы никогда не открывали Photoshop, этот модуль поможет получить необходимую базу для работы с фотографиями и дизайн-макетами. Вы познакомитесь с ключевыми инструментами приложения и сразу примените их на практике. В каждом занятии — задание для самостоятельной тренировки.</p>
+<ul>
+    <li>Введение в Photoshop</li>
+    <li>Двойная экспозиция</li>
+    <li>Ретушь и цветокоррекция</li>
+    <li>Постер</li>
+    <li>Тонированное изображение</li>
+    <li>Сайт в Photoshop</li>
+    <li>Мокап</li>
+    <li>Gif-анимация</li>
+    <li>Иллюстрация</li>
+</ul>
+<p><strong>Прототипирование сайта</strong><br>Изучите методы, чтобы определить, каким должен быть интерфейс, а также техники поиска идей для его разработки. На практике закрепите приёмы и принципы веб-дизайна, которые необходимы для создания современного сайта.</p>
+<ul>
+    <li>Знакомство с веб-дизайном</li>
+    <li>Модульные сетки</li>
+    <li>Скетчинг и прототипирование</li>
+    <li>Пользовательское взаимодействие</li>
+    <li>Адаптивный дизайн</li>
+</ul>
+<p><strong>Иерархия дизайн-проекта</strong><br>Изучите свойства формы и приёмы для создания композиции. Научитесь работать с цветом, подбирать шрифты, структурировать текст и использовать микротипографику. Освоите принципы, необходимые для создания визуальной иерархии в интерфейсе.</p>
+<ul>
+    <li>Композиция</li>
+    <li>Веб-типографика</li>
+    <li>Теория цвета</li>
+    <li>Веб-анимация</li>
+    <li>Системы ведения проектов</li>
+    <li>Составление технического задания</li>
+    <li>Вдохновение, творчество, импровизация</li>
+</ul>
+<p><strong>Гайдлайны и архитектура приложения</strong><br>Освоите ключевые особенности создания дизайна мобильных приложений. Узнаете, какие паттерны используются и как строится процесс работы с гайдалайнами платформ. Научитесь строить структурные схемы экранов и создавать интерактивные прототипы с анимацией.</p>
+<ul>
+    <li>Принципы дизайна мобильных интерфейсов</li>
+    <li>Принципы проектирования UX</li>
+    <li>Анатомия iOS- приложения</li>
+    <li>Основные принципы material design</li>
+    <li>Анимация интерфейсов. Микровзаимодействия</li>
+    <li>Дизайн графики для мобильных приложений</li>
+    <li>Основы прототипирования</li>
+    <li>Практическое прототипирование</li>
+</ul>
+<p><strong>Эргономика и юзабилити</strong></p>
+<p>Научитесь проводить тестирование пользовательского интерфейса и его эргономичности. Создадите руководство по стилю для передачи проекта в разработку. Изучите принципы оформления презентации, которые помогут оформить портфолио и донести ваши идеи до заказчика или будущего работодателя.</p>
+<ul>
+    <li>Юзабилити-тестирование мобильных приложений</li>
+    <li>Передача проекта разработчикам</li>
+    <li>Презентация работ и подготовка портфолио</li>
+</ul>
+<p><strong>Основные принципы работы в Tilda</strong><br>Изучите особенности и функционал онлайн-платформы Tilda, принципы и&nbsp;настройки редактирования нулевого блока — Zero Block.</p>
+<ul>
+    <li>Базовые возможности платформы Tilda</li>
+    <li>Работа с нулевым блоком платформы Tilda</li>
+</ul>
+<p><strong>Итоговый проект</strong><br>Разработаете дизайн-макет сайта и интерактивный прототип мобильного приложения под руководством экспертов курса.</p>
+<p>&nbsp;<br></p>
+<h4>Ключевые навыки</h4>
+<ul>
+    <li>Работа с модульной сеткой</li>
+    <li>Разработка адаптивного макета</li>
+    <li>Применение основ композиции и работы с цветом</li>
+    <li>Умение работать с веб-типографикой</li>
+    <li>Умение работать с гайдлайнами для iOS и Android&nbsp;</li>
+    <li>Проектирование и дизайн мобильных интерфейсов&nbsp;</li>
+    <li>Создание интерактивных мобильных прототипов&nbsp;</li>
+    <li>Анимация мобильных интерфейсов&nbsp;</li>
+    <li>Подготовка портфолио&nbsp;&nbsp;</li>
+</ul>
+<p>&nbsp;<br></p>16:T6bc,<h4><strong>Кому&nbsp;подойдёт курс</strong></h4>
+<ul>
+    <li><strong>Новичкам в дизайне</strong><br>С нуля освоите новую профессию и сможете найти работу на фрилансе или в агентстве</li>
+    <li><strong>Дизайнерам с&nbsp;небольшим опытом</strong><br>Систематизируете свои знания и дополните профессиональные навыки</li>
+    <li><strong>Специалистам смежных профессий</strong><br>Сможете расширить свои навыки и применять их в рабочих проектах</li>
+</ul>
+<p>&nbsp;<br></p>
+<h4><strong>Чему&nbsp;научитесь</strong></h4>
+<ul>
+    <li>Создавать интерфейсы, которые приведут пользователя к цели максимально просто</li>
+    <li>Работать с композицией, типографикой и шрифтами при разработке интерфейса</li>
+    <li>Создавать адаптивные дизайн-макеты веб- и мобильных интерфейсов</li>
+    <li>Работать с гайдлайнами Android и iOS и создавать интерактивные прототипы</li>
+    <li>Проводить юзабилити-тестирование мобильных приложений и передавать проект в разработку</li>
+    <li>Упаковывать и презентовать проект заказчику, оформлять собственное портфолио</li></ul>17:T347b,<h4><strong>Кому подойдёт&nbsp;курс</strong></h4>
+<ul>
+    <li><strong>Начинающим дизайнерам и UX-аналитикам</strong><br>Получите системный взгляд на профессию и освоите ключевые навыки, необходимые для старта</li>
+    <li><strong>Веб- и mobile дизайнерам</strong><br>Сможете перейти в UX и усилить себя в разработке дружественных интерфейсов</li>
+    <li><strong>Менеджерам в digital</strong><br>Научитесь анализировать пользовательский опыт и грамотно ставить задачи по доработке интерфейса</li>
+</ul>
+<p><strong>&nbsp;</strong><br></p>
+<h4><strong>Чему&nbsp;научитесь&nbsp;</strong></h4>
+<ul>
+    <li>Проводить исследования от постановки гипотезы до сбора инсайтов после тестирования</li>
+    <li>Выявлять проблемы бизнеса и соотносить их с проблемами целевой аудитории</li>
+    <li>Подбирать связки количественных и качественных методов, визуализировать опыт клиента с помощью инструмента Customer Journey Map</li>
+    <li>Проектировать удобные интерфейсы: тестировать гипотезы и создавать прототипы</li>
+    <li>Выстраивать итерационную работу над интерфейсом и взаимодействие в команде</li>
+    <li>Узнаете об опыте проектирования сайтов в компании Agima и&nbsp;погрузитесь в процессы ведущего агентства</li>
+</ul>
+<p>&nbsp;<br></p>
+<h4><strong>Программа курса</strong></h4>
+<p>Вы узнаете, как проводить анализ проекта, выявлять проблемы бизнеса и соотносить их с потребностями аудитории. Научитесь выбирать и проводить исследования, формулировать на их основе гипотезы, встраивать их в процесс разработки пользовательских интерфейсов и формировать информационную архитектуру и карты пользовательских сценариев.</p>
+<p><strong>Первые шаги в UX</strong><br>Узнаете, что такое UX-аналитика и чем занимается UX-исследователь. Научитесь сегментировать целевую аудиторию, брифовать заказчика и создавать ценностное предложение. Сможете выявлять пользователя продукта, что поможет правильно определять респондентов исследований.</p>
+<ul>
+    <li>Роль аналитики в UX</li>
+    <li>Бизнес-аналитика: анализ ЦА</li>
+    <li>Бизнес-аналитика</li>
+    <li>Дизайн-мышление</li>
+</ul>
+<p><strong>Качественные и количественные исследования</strong><br>Узнаете, какие бывают исследования и чем они отличаются. Разберёте, как готовиться к разным исследованиям и вести себя во время их проведения, как систематизировать и анализировать полученные результаты. Научитесь формулировать гипотезы, выбирать и проводить исследования для их проверки. Визуализируете опыт клиента с помощью CJM.</p>
+<ul>
+    <li>Введение в методы исследования</li>
+    <li>Особенности количественных исследований</li>
+    <li>Качественные исследования</li>
+    <li>Проведение качественного исследования</li>
+    <li>Глубинные интервью</li>
+    <li>Моделирование поведения с помощью Customer Journey Map</li>
+</ul>
+<p><strong>Инструменты для проведения исследований</strong><br>Узнаете, какие дополнительные инструменты можно применять и для каких исследований. Разберёте особые моменты, которые необходимо учитывать UX-аналитику: доступность (accessibility), системные требования. Научитесь писать системные требования в формате технического задания и выстраивать порядок тестирования гипотез с помощью A/B-тестов.</p>
+<ul>
+    <li>Системный аналитик в UX</li>
+    <li>Обзор аналитических инструментов</li>
+    <li>Математика A/B тестов</li>
+    <li>Немодерируемые удалённые тесты</li>
+    <li>Accessibility статистика</li>
+    <li>Феномены зрительного восприятия</li>
+    <li>Eye-tracking тестирования</li>
+</ul>
+<p><strong>Опыт компании Agima. Проектирование интерфейсов</strong><br>Узнаете, как устроена работа над прототипированием и проектированием интерфейсов в агентстве Agima. Эксперты агентства расскажут про цели и особенности анализа целевой аудитории при создании продукта, основные этапы и артефакты прототипирования. Вы потренируетесь разрабатывать веб- и мобильные интерфейсы в Figma разной степени детализации. Научитесь презентовать прототип в нестандартных форматах.</p>
+<ul>
+    <li>Введение. Этапы работы над проектом</li>
+    <li>История дизайна интерфейсов</li>
+    <li>Цели и методы исследований продукта и аудитории</li>
+    <li>Кейс по проектированию</li>
+    <li>Разбор кейса</li>
+    <li>Введение в проектирование</li>
+    <li>Что проектируем: основные артефакты</li>
+    <li>UX-проектирование: принципы и инструменты анализа</li>
+    <li>Разбор работ одного блока</li>
+    <li>Figma: основы работы</li>
+    <li>UX-проектирование: инструменты и паттерны прототипирования</li>
+    <li>Кейс по проектированию</li>
+    <li>Figma: создание прототипа высокой детализации</li>
+    <li>Язык дизайна. Анатомия интерфейса</li>
+    <li>Гайдлайны iOS и Android. Особенности проектирования мобильного приложения</li>
+    <li>Примеры и кейсы мобильных приложений</li>
+    <li>Презентация проекта</li>
+    <li>Как попасть в агентство или продукт</li>
+    <li>Как справиться со сложностями на проекте</li>
+</ul>
+<p><strong>Проектирование пользовательского опыта</strong><br>Изучите принципы построения пользовательских интерфейсов и рассмотрите их основные элементы. Углубитесь в методологии командной работы и формирование командного взаимодействия. Освоите инструменты для сбора и обработки данных о пользователях продукта, основы стратегии в концепции бережливого производства.</p>
+<ul>
+    <li>Введение в предметную область</li>
+    <li>Азбука пользовательского интерфейса</li>
+    <li>Культура работы в команде</li>
+    <li>Презентация собственного проекта для работы над курсом</li>
+    <li>Качественные исследования аудитории</li>
+    <li>Воркшоп: персоны</li>
+    <li>Lean UX strategy</li>
+    <li>Воркшоп: UX strategy</li>
+</ul>
+<p><strong>Прототипирование интерфейсного решения</strong><br>Научитесь формировать информационную архитектуру и карты пользовательских сценариев. Освоите инструменты прототипирования и поработаете с интерактивными прототипами. Погрузитесь в основные методики юзабилити-тестирования. Изучите инструменты, которые используют дизайнеры интерфейсов для управления проектами.</p>
+<ul>
+    <li>Customer Journey Mapping (CJM)</li>
+    <li>Информационная архитектура</li>
+    <li>Воркшоп: UX Design</li>
+    <li>Воркшоп: UI design</li>
+    <li>Инструменты прототипирования</li>
+</ul>
+<p><strong>Как собирать фидбек внутри продукта. Опыт компании UX Feedback</strong><br>Научитесь работать с гипотезами, выбирать правильные точки на пути пользователя для постановки вопросов. На примерах узнаете, что такое хорошие и плохие вопросы, и научитесь тестировать опросы на реальных пользователях. Потренируетесь обрабатывать и категоризировать фидбек. Научитесь определять нужды пользователя и учитывать их при доработке продукта.</p>
+<ul>
+    <li>Введение в работу с фидбеком внутри продукта</li>
+    <li>Сбор фидбека: от целей и гипотез к созданию первых опросов</li>
+    <li>Обработка фидбека. Превращение «хотелок» в нужды</li>
+    <li>Принятие решения на основе фидбека</li>
+</ul>
+<p><strong>Итоговые проекты</strong><br>За время обучения вы выполните три итоговых проекта:</p>
+<ol>
+    <li>Проведёте UX-анализ сайта и UX-исследование пользователей</li>
+    <li>Создадите высокодетализированный интерактивный прототип сервиса и мобильного приложения</li>
+    <li>Спроектируете со своей командой пользовательский интерфейс под бизнес-задачи</li>
+</ol>
+<p>&nbsp;<br></p>
+<h4>Ключевые навыки</h4>
+<ul>
+    <li>Анализ потребностей пользователей</li>
+    <li>Сегментирование пользователей</li>
+    <li>Разработка сценариев использования</li>
+    <li>Создание информационной архитектуры</li>
+    <li>Визуализация опыта клиента с помощью инструмента Customer Journey Map</li>
+    <li>Проведение А/В-тестирования, юзабилити-исследований</li>
+    <li>Проведение количественных и качественных исследований, глубинных интервью</li>
+    <li>Создание карты пользовательского опыта и воронки продаж</li>
+    <li>Применение инструментов аналитики</li>
+    <li>Создание интерактивного прототипа</li>
+    <li>Разработка MVP и планирование этапов разработки</li>
+    <li>Формирование стратегии продукта</li>
+    <li>Защита дизайн-решения</li>
+    <li>Работа в команде</li>
+</ul>
+<p>&nbsp;<br></p>18:T7b4,<h4><strong>Кому подойдёт&nbsp;курс</strong></h4>
+<ul>
+    <li><strong>Начинающим дизайнерам и UX-аналитикам</strong><br>Получите системный взгляд на профессию и освоите ключевые навыки, необходимые для старта</li>
+    <li><strong>Веб- и mobile дизайнерам</strong><br>Сможете перейти в UX и усилить себя в разработке дружественных интерфейсов</li>
+    <li><strong>Менеджерам в digital</strong><br>Научитесь анализировать пользовательский опыт и грамотно ставить задачи по доработке интерфейса</li>
+</ul>
+<p><strong>&nbsp;</strong><br></p>
+<h4><strong>Чему&nbsp;научитесь&nbsp;</strong></h4>
+<ul>
+    <li>Проводить исследования от постановки гипотезы до сбора инсайтов после тестирования</li>
+    <li>Выявлять проблемы бизнеса и соотносить их с проблемами целевой аудитории</li>
+    <li>Подбирать связки количественных и качественных методов, визуализировать опыт клиента с помощью инструмента Customer Journey Map</li>
+    <li>Проектировать удобные интерфейсы: тестировать гипотезы и создавать прототипы</li>
+    <li>Выстраивать итерационную работу над интерфейсом и взаимодействие в команде</li>
+    <li>Узнаете об опыте проектирования сайтов в компании Agima и&nbsp;погрузитесь в процессы ведущего агентства</li></ul>19:T6575,<h4><strong>Кому&nbsp;подойдёт курс</strong></h4>
+<ul>
+    <li><strong>Тем, кто хочет сменить сферу деятельности</strong><br>Освоите новую высокооплачиваемую профессию и&nbsp;сможете найти работу на&nbsp;фрилансе или в агентстве</li>
+    <li><strong>Графическим дизайнерам</strong><br>Поймёте, как применить свои знания в&nbsp;UX/UI-дизайне, расширите свои навыки и&nbsp;сможете сменить квалификацию</li>
+    <li><strong>Новичкам в&nbsp;UX/UI-дизайне</strong><br>Систематизируете свои знания и&nbsp;дополните профессиональные навыки, чтобы применить их&nbsp;на&nbsp;практике</li>
+</ul>
+<p>&nbsp;<br></p>
+<h4><strong>Чему&nbsp;научитесь</strong></h4>
+<ul>
+    <li>Работать с основными инструментами UX/UI-дизайнера&nbsp;</li>
+    <li>Создавать сложный дизайн сайтов в Figma&nbsp;</li>
+    <li>Разрабатывать анимацию интерфейса</li>
+    <li>Создавать мобильные приложения под iOS и&nbsp;Android</li>
+    <li>Проводить UX-исследования&nbsp;и работать<br>с гипотезами</li>
+    <li>Внедрять 3D-графику в&nbsp;дизайн-макет</li>
+</ul>
+<p>&nbsp;<br></p>
+<h4><strong>Программа&nbsp;курса</strong></h4>
+<p><strong>Базовая ступень&nbsp; &nbsp;&nbsp;</strong><br>Освоите базовые навыки цифрового дизайнера, поработаете с&nbsp;веб‑платформой, узнаете особенности создания сайтов, адаптивности и&nbsp;веб-анимации. Изучите Tilda Publishing&nbsp;— один из&nbsp;самых гибких и&nbsp;удобных инструментов UX/UI-дизайнера.</p>
+<p><strong>Основы Adobe Photoshop и Illustrator</strong><br>Если вы никогда раньше не открывали Photoshop и Illustrator, то в подготовительном модуле получите необходимую базу для работы с векторной и растровой графикой. Вы познакомитесь с ключевыми возможностями инструментов и сразу примените их на практике. В каждом занятии — задание для самостоятельной тренировки.</p>
+<ul>
+    <li>Введение в Photoshop</li>
+    <li>Двойная экспозиция</li>
+    <li>Ретушь и цветокоррекция</li>
+    <li>Постер</li>
+    <li>Тонированное изображение</li>
+    <li>Сайт в Photoshop</li>
+    <li>Мокап</li>
+    <li>GIF-анимация</li>
+    <li>Иллюстрация</li>
+    <li>Отрисовка логотипа в Illustrator</li>
+</ul>
+<p><strong>Опыт&nbsp;Mish.design. Основы Figma</strong><br>Вы получите необходимую базу для работы с графикой и дизайн-макетами в Figma. Познакомитесь с ключевыми инструментами приложения и сразу примените их на практике. В каждом занятии — задание для самостоятельной тренировки.</p>
+<ul>
+    <li>Экскурсия по Figma</li>
+    <li>Первые шаги в Figma</li>
+    <li>Интерфейсы</li>
+    <li>Основы веб-дизайна</li>
+    <li>Подготовка веб-макета к жизни</li>
+    <li>Основы работы с мобильными платформами</li>
+    <li>Компоненты и стили</li>
+    <li>Кликабельный прототип мобильного приложения</li>
+</ul>
+<p><strong>Основы веб-дизайна</strong><br>Изучите методы, которые помогают определить, каким должен быть интерфейс. Узнаете о техниках поиска идей для разработки интерфейса. На практике закрепите приёмы и принципы веб-дизайна, необходимые для создания современного сайта.&nbsp;<strong><br></strong><br>Рассмотрите свойства формы и приёмы работы над композицией. Научитесь работать с цветом, подбирать шрифты, структурировать текст и использовать микротипографику. Освоите принципы создания визуальной иерархии в интерфейсе.</p>
+<ul>
+    <li>Знакомство с веб-дизайном</li>
+    <li>Модульные сетки</li>
+    <li>Скетчинг и прототипирование</li>
+    <li>Пользовательское взаимодействие</li>
+    <li>Композиция</li>
+    <li>Веб-типографика</li>
+    <li>Теория цвета</li>
+    <li>Вдохновение, творчество, импровизация</li>
+</ul>
+<p><strong>Создание проекта сайта</strong><br>Научитесь превращать статичный дизайн в проект сайта. Создадите анимации переходов и микровзаимодействий. Разработаете адаптивную версию макета в нескольких разрешениях, в том числе — мобильную версию. Научитесь взаимодействовать с разработчиками и управлять проектом.</p>
+<ul>
+    <li>Адаптивный дизайн</li>
+    <li>Веб-анимация</li>
+    <li>Системы ведения проектов</li>
+    <li>Составление технического задания для вёрстки</li>
+    <li>Модульный проект</li>
+</ul>
+<p><strong>Исследование пользовательского опыта</strong><br>Научитесь проводить анализ проекта, выявлять проблемы бизнеса и соотносить их с проблемами целевой аудитории. Освоите аналитические инструменты и сконцентрируетесь на целях и ценностях пользователя.</p>
+<ul>
+    <li>Роль аналитики в UX</li>
+    <li>Бизнес аналитика: анализ ЦА</li>
+    <li>Бизнес-аналитика</li>
+    <li>Системная аналитика в UX</li>
+    <li>Дизайн-мышление</li>
+    <li>Введение в методы исследования</li>
+    <li>Особенности количественных исследований</li>
+    <li>Качественные исследования</li>
+    <li>Проведение качественного исследования</li>
+    <li>Глубинные интервью</li>
+    <li>Моделирование поведения: CJM</li>
+    <li>Системная аналитика в UX</li>
+    <li>Обзор аналитических инструментов</li>
+    <li>A/B‑тестирования</li>
+    <li>Немодерируемые удалённые тесты</li>
+    <li>Accessibility-статистика</li>
+    <li>Феномены зрительного восприятия</li>
+    <li>Eye-tracking-тестирование</li>
+</ul>
+<p><strong>Опыт&nbsp;MateÇa. Создание сайтов на Tilda</strong><br>Изучите стандартные блоки, возможности редактирования и настройки сервисов в Tilda. Узнаете все нюансы подготовки сайта к запуску. Разберётесь в возможностях кастомизации блоков и гибкости их использования. Научитесь создавать разные виды сайтов, подключать платёжные системы и работать с заявками.</p>
+<ul>
+    <li>Настройки сайта</li>
+    <li>Настройки страницы</li>
+    <li>Подключение домена</li>
+    <li>Настройки и редактирование стандартных блоков&nbsp;</li>
+    <li>Адаптивность в стандартных блоках</li>
+    <li>Подключение внешних шрифтов</li>
+    <li>Многостраничные сайты</li>
+    <li>Функционал для интернет-магазина и рассылок</li>
+    <li>Функция «Потоки»</li>
+    <li>Личный кабинет</li>
+    <li>CRM Tilda</li>
+</ul>
+<p><strong>Опыт&nbsp;MateÇa.&nbsp;Tilda Zero Block</strong><br>Научитесь работать во встроенном графическом редакторе Zero Block: создавать дизайн любой сложности, переносить макеты из Figma или Photoshop, создавать адаптивность и работать с анимациями. Познакомитесь с базовым функционалом Zero Block, а также со скрытыми функциями, которые позволяют делать сайты фестивального уровня.</p>
+<ul>
+    <li>Работа в редакторе</li>
+    <li>Адаптивность в Zero Block</li>
+    <li>Базовая анимация</li>
+    <li>Пошаговая анимация</li>
+    <li>Триггерная анимация</li>
+    <li>Модульный проект</li>
+</ul>
+<p><strong>Продвинутые навыки&nbsp; &nbsp;&nbsp;</strong><br>Начнёте работать с&nbsp;мобильной платформой. Разберётесь в&nbsp;тонкостях гайдлайнов iOS и&nbsp;Android, выясните, чем нативное приложение отличается от&nbsp;мобильной версии сайта. Узнаете, как проектируют интерфейсы в&nbsp;компании Agima. Научитесь создавать 3D-графику и&nbsp;анимацию интерфейсов.</p>
+<p><strong>Основы дизайна мобильных интерфейсов</strong><br>Погрузитесь в принципы дизайна мобильных интерфейсов. Научитесь использовать паттерны при разработке интерфейса. Изучите гайдлайны современных операционных систем и сможете использовать их при создании макетов.</p>
+<ul>
+    <li>Принципы дизайна мобильных интерфейсов</li>
+    <li>Системная аналитика&nbsp;&nbsp;</li>
+    <li>Принципы проектирования UX</li>
+    <li>Анатомия iOS-приложения</li>
+    <li>Основные принципы&nbsp;Material Design</li>
+    <li>Композиция, цвет и типографика&nbsp;в диджитале</li>
+    <li>Основы работы в Figma</li>
+    <li>Модульная сетка в дизайне интерфейсов</li>
+</ul>
+<p><strong>Запуск и тестирование мобильного приложения</strong><br>Научитесь создавать анимации и микровзаимодействия, готовить макет для передачи в разработку. Разберётесь в особенностях взаимодействия с разработчиками, в нюансах составления технического задания. Научитесь проводить юзабилити-тестирование и использовать полученные данные для улучшения интерфейса.</p>
+<ul>
+    <li>Анимация интерфейсов. Микровзаимодействия</li>
+    <li>Практическое прототипирование</li>
+    <li>Основы прототипирования</li>
+    <li>Юзабилити-тестирование мобильных приложений</li>
+    <li>Работа с брендбуком</li>
+    <li>Передача проекта разработчикам</li>
+    <li>Навыки создания презентации на Behance</li>
+    <li>Модульный проект</li>
+</ul>
+<p><strong>Опыт&nbsp;AGIMA. Проектирование интерфейсов</strong><br>Узнаете, как устроена работа над прототипированием и&nbsp;проектированием интерфейсов в&nbsp;агентстве AGIMA. Эксперты компании расскажут про цели и&nbsp;особенности анализа целевой аудитории при создании продукта, основные этапы и&nbsp;артефакты прототипирования. Вы&nbsp;потренируетесь разрабатывать в&nbsp;Figma веб- и&nbsp;мобильные интерфейсы разной степени детализации. Научитесь презентовать прототип в&nbsp;нестандартных форматах.</p>
+<ul>
+    <li>История дизайна интерфейсов&nbsp; &nbsp;</li>
+    <li>Цели исследований продукта и аудитории</li>
+    <li>Методы исследований</li>
+    <li>Введение в проектирование&nbsp;</li>
+    <li>Что проектируем: основные артефакты</li>
+    <li>UX-проектирование: принципы и инструменты анализа</li>
+    <li>Основы работы в Figma</li>
+    <li>Инструменты и паттерны прототипирования</li>
+    <li>Прототип высокой детализации в Figma&nbsp;</li>
+    <li>Гайдлайны iOS и Android. Особенности проектирования мобильного приложения</li>
+    <li>Презентация прототипа</li>
+    <li>Что выбрать UX-проектировщику: работу в агентстве<br>или в продукте</li>
+    <li>Модульный проект</li>
+</ul>
+<p><strong>Проектирование UX и прототипирование</strong><br>Изучите принципы построения пользовательских интерфейсов и рассмотрите их основные элементы. Углубитесь в методологию командной работы и формирование командного взаимодействия. Освоите инструменты для сбора и обработки данных о пользователях продукта, основы стратегии в концепции бережливого производства.</p>
+<ul>
+    <li>Введение в предметную область</li>
+    <li>Азбука пользовательского интерфейса</li>
+    <li>Методологии командной работы: Kanban, Scrum</li>
+    <li>Воркшоп. Персоны</li>
+    <li>Lean UX strategy</li>
+    <li>Воркшоп. UX strategy</li>
+    <li>Customer journey mapping — CJM</li>
+    <li>Информационная архитектура</li>
+    <li>Воркшоп. UX design</li>
+    <li>Инструменты прототипирования</li>
+    <li>Воркшоп. UI design</li>
+    <li>Модульный проект</li>
+</ul>
+<p><strong>Опыт&nbsp;ITECH. 3D-графика для интерфейсов в Cinema 4D</strong><br>Погрузитесь в работу с 3D. Изучите функционал Cinema 4D — одного из популярных ПО для работы с 3D-графикой. Освоите навыки моделирования и анимирования объекта. Научитесь создавать материалы и подбирать свет для создания реалистичных сцен. Поймёте основные принципы использования 3D в работе с интерфейсами.&nbsp;</p>
+<ul>
+    <li>Введение в 3D</li>
+    <li>Cinema 4D. Основные возможности программы</li>
+    <li>Камера и сцена</li>
+    <li>Материалы, свет, рендер</li>
+    <li>Воркшоп. Практика создания 3D-графики</li>
+    <li>Примитивы, деформеры, альтернативные способы</li>
+    <li>Полигональное моделирование</li>
+    <li>Генеративное и параметрическое моделирование. Часть 1</li>
+    <li>Генеративное и параметрическое моделирование. Часть 2</li>
+    <li>Mograph</li>
+    <li>Воркшоп. Практика создания 3D-графики</li>
+    <li>Анимация сцены</li>
+    <li>Подготовка и оформление проекта</li>
+    <li>Модульный проект</li>
+</ul>
+<p><strong>Опыт&nbsp;«Атвинта». Анимация интерфейсов в&nbsp;ProtoPie&nbsp;и After Effects</strong><br>Изучите основные принципы анимации и поймёте, как превратить статичный дизайн в динамичный креативный интерфейс. Разберёте основы веб- и мобильной анимации. Освоите&nbsp;ProtoPie&nbsp;для создания интерактивных интерфейсов. Изучите основной функционал After Effects, научитесь работать с масками и слоями и поймёте, как работать с анимациями в сочетании<br>с 3D-элементами.</p>
+<ul>
+    <li>История анимации в интерфейсах</li>
+    <li>10 принципов Уолта Диснея и как это связано с интерфейсами</li>
+    <li>Ограничения и возможности</li>
+    <li>Инструменты для анимации</li>
+    <li>Введение вAfter Effects и&nbsp;ProtoPie</li>
+    <li>Воркшоп. Работа в After Effects</li>
+    <li>Воркшоп. Работа в ProtoPie</li>
+    <li>Создание анимации в Rive и Haiku</li>
+    <li>Вдохновение, идеи, поиск</li>
+    <li>Взаимодействие с фронтендом, CodePen</li>
+    <li>Разбор кейсов</li>
+    <li>Модульный проект</li>
+</ul>
+<p><strong>Насмотренность в дизайне</strong><br>Вы узнаете, как лучше тренировать насмотренность — один из основных навыков в профессии дизайнера. Будете анализировать работы из разных сфер искусства и дизайна и одновременно углублять навыки работы с цветом, композицией и типографикой. В итоге соберёте референсы, которые сможете использовать в своих проектах.</p>
+<ul>
+    <li>Насмотренность: почему она так важна для профессионального развития</li>
+    <li>Принципы построения композиции, использования цветов и типографики</li>
+    <li>Насмотренность на практике: пополняем и структурируем библиотеку изображений</li>
+</ul>
+<p><strong>CX: как собирать фидбек внутри продукта. Опыт компании&nbsp;UX Feedback&nbsp;</strong><br>Научитесь работать с гипотезами, выбирать правильные точки на пути пользователя<br>для постановки вопросов. Узнаете, что такое хорошие и плохие вопросы, сможете тестировать опросы на реальных пользователях. Потренируетесь обрабатывать и категоризировать фидбек. Научитесь определять нужды пользователя и учитывать их при доработке продукта.</p>
+<ul>
+    <li>Введение в работу с фидбеком внутри продукта</li>
+    <li>Сбор фидбека: от целей и гипотез к созданию первых опросов</li>
+    <li>Обработка фидбека. Превращение «хотелок» в нужды</li>
+    <li>Принятие решения на основе фидбека</li>
+</ul>
+<p><strong>Дизайн-менеджмент&nbsp;</strong><br>Научитесь управлять креативной командой и создавать масштабные дизайн-проекты.</p>
+<ul>
+    <li>Введение в арт-дирекшн</li>
+    <li>Обработка брифа и проектирование</li>
+    <li>Тренды в диджитале</li>
+    <li>Инструменты дизайнера. Разбор кейсов</li>
+    <li>Цифровая графика и анимация. Разбор кейсов</li>
+    <li>Формирование дизайн-системы</li>
+    <li>Креативные методики</li>
+    <li>Формирование команды и управление</li>
+    <li>Постановка и контроль задач</li>
+    <li>Работа с мотивацией и коммуникация внутри команды</li>
+    <li>Анализ эффективности и аналитика проекта. Продуктовый подход</li>
+    <li>Презентация и защита проекта</li>
+    <li>PR и личный бренд</li>
+</ul>
+<p><strong>Дипломный проект</strong><br>Создадите полноценный цифровой продукт на&nbsp;основе полученных во&nbsp;время обучения навыков.<strong><br></strong><br>Вы&nbsp;пройдёте все этапы создания продукта. Начнёте с&nbsp;исследования аудитории и&nbsp;анализа конкурентов. Спроектируете пользовательский опыт&nbsp;и&nbsp;займётесь прототипированием. Создадите визуальный дизайн с&nbsp;использованием 3D-графики и&nbsp;анимации. Адаптируете своё решение под разные платформы.</p>
+<p><strong>&nbsp;</strong><br></p>
+<h4>Ключевые навыки</h4>
+<ul>
+    <li>Проектирование пользовательского опыта</li>
+    <li>Построение композиции и использование сетки в её проектировании</li>
+    <li>Подбор шрифтов и работа с типографикой</li>
+    <li>Создание нужного впечатления с помощью психологии цвета</li>
+    <li>Кернинг, треккинг, интерлиньяж, оптические компенсации</li>
+    <li>Взаимодействие с разработчиками и контроль качества</li>
+    <li>Работа с гайдлайнами для iOS и Android</li>
+    <li>Тестирование и оптимизация дизайна</li>
+    <li>Создание 3D-графики для интерфейсов в Cinema 4D</li>
+    <li>Подбор и настройка рендеров для достижения реалистичной сцены</li>
+    <li>Внедрение 3D-графики в интерфейсы с учётом композиции</li>
+    <li>Оценка логики интерфейсов сайтов и приложений</li>
+    <li>Проведение количественных и качественных исследований пользователей</li>
+    <li>Создание в ProtoPie и After Effects анимации для веб- и мобильных интерфейсов</li>
+    <li>Разработка анимации с учётом логики интерфейса</li>
+    <li>Создание анимированной 3D-графики в After Effects</li>
+    <li>Разработка концептов, выбор релевантных методологий</li>
+    <li>Создание писем для email-рассылок в Tilda</li>
+    <li>Работа по методологии Agile</li>
+</ul>1a:T627,<h4><strong>Кому&nbsp;подойдёт курс</strong></h4>
+<ul>
+    <li><strong>Тем, кто хочет сменить сферу деятельности</strong><br>Освоите новую высокооплачиваемую профессию и&nbsp;сможете найти работу на&nbsp;фрилансе или в агентстве</li>
+    <li><strong>Графическим дизайнерам</strong><br>Поймёте, как применить свои знания в&nbsp;UX/UI-дизайне, расширите свои навыки и&nbsp;сможете сменить квалификацию</li>
+    <li><strong>Новичкам в&nbsp;UX/UI-дизайне</strong><br>Систематизируете свои знания и&nbsp;дополните профессиональные навыки, чтобы применить их&nbsp;на&nbsp;практике</li>
+</ul>
+<p>&nbsp;<br></p>
+<h4><strong>Чему&nbsp;научитесь</strong></h4>
+<ul>
+    <li>Работать с основными инструментами UX/UI-дизайнера&nbsp;</li>
+    <li>Создавать сложный дизайн сайтов в Figma&nbsp;</li>
+    <li>Разрабатывать анимацию интерфейса</li>
+    <li>Создавать мобильные приложения под iOS и&nbsp;Android</li>
+    <li>Проводить UX-исследования&nbsp;и работать<br>с гипотезами</li>
+    <li>Внедрять 3D-графику в&nbsp;дизайн-макет</li></ul>1b:T1965,<h4><strong>Кому подойдет курс</strong></h4>
+<ul>
+    <li><strong>Тем, кто хочет освоить творческую профессию с нуля</strong><br>Вы получите все необходимые инструменты для быстрого старта в профессии UX/UI-дизайнер, научитесь мыслить и действовать креативно и соберёте портфолио, которое впечатлит работодателей.</li>
+    <li><strong>Тем, кто хочет сменить рутину на&nbsp;креативные задачи</strong><br>Вы освоите востребованную профессию дизайнера интерфейсов и получите новые возможности для реализации идей. Научитесь проводить исследования, работать с Tilda и сможете создавать крутые интерфейсы с нуля, опираясь на опыт пользователей.</li>
+    <li><strong>Тем, кто хочет стать фрилансером и&nbsp;работать на себя</strong><br>Вы узнаете, как разрабатывать цифровые продукты от идеи до&nbsp;готового макета, разберетесь в&nbsp;бизнес-требованиях, сможете проводить исследования и работать с&nbsp;гипотезами. А еще – находить клиентов и работать без офиса из&nbsp;любой точки мира.</li>
+</ul>
+<p>&nbsp;<br></p>
+<h4><strong>Программа курса</strong></h4>
+<p>I четверть</p>
+<p><strong>Основы дизайна. Погружение в&nbsp;профессию</strong><br>Вы познакомитесь с ключевыми инструментами проектирования и дизайна интерфейсов, получите представление о визуальной коммуникации и научитесь применять её на практике. Создадите работы в Figma и Adobe Illustrator и потренируетесь в оформлении портфолио.</p>
+<ul>
+    <li>Вводный вебинар</li>
+    <li>История и основные принципы дизайна</li>
+    <li>Miro</li>
+    <li>Аccessibility</li>
+    <li>Командная работа</li>
+    <li>Типографика и композиция в вебе. Расширенный курс</li>
+    <li>Figma: от проектирования к прототипированию</li>
+    <li>Adobe Illustrator для UX и веб-дизайнеров</li>
+    <li>Рефлексия. Работа с портфолио</li>
+</ul>
+<p>II четверть</p>
+<p><strong>Погружение в UI</strong><br>Вы углубитесь в UI — разработку веб- и мобильных интерфейсов. Научитесь создавать веб-сервисы в Тильде и верстать. Создадите веб-сервис и его адаптивные версии.</p>
+<ul>
+    <li>Введение в дизайн цифровых продуктов</li>
+    <li>Основы вёрстки для&nbsp;UI-дизайнера</li>
+    <li>Онлайн-конструкторы сайтов: Tilda</li>
+    <li>Рефлексия. Работа с портфолио</li>
+</ul>
+<p>III четверть</p>
+<p><strong>Погружение в дизайн цифровых продуктов</strong><br>В этой четверти вы познакомитесь с особенностями дизайна интерфейсов и создадите прототипы интерфейсов для мобильного, десктоп- и веб-приложения.</p>
+<p><strong>Итоги четверти</strong><br>Научитесь работать с Adobe Photoshop и&nbsp;After Effects и управлять проектами.</p>
+<ul>
+    <li>Адаптивный дизайн + веб-приложение</li>
+    <li>Мобильное приложение</li>
+    <li>Десктоп приложение</li>
+    <li>Adobe After Effects. Базовый</li>
+    <li>Менеджмент проекта</li>
+    <li>Adobe Photoshop. Основы. Интерактивный курс</li>
+    <li>Рефлексия. Работа с портфолио</li>
+</ul>
+<p>IV четверть</p>
+<p><strong>Погружение в UX. Командная работа</strong><br>Вы разделитесь на команды, выберете проект и отработаете в&nbsp;нем все этапы разработки цифрового продукта: от идеи до&nbsp;макета. Разберетесь в бизнес-требованиях и документации, научитесь проводить исследования, формировать гипотезы и&nbsp;проверять их.</p>
+<p><strong>Итоги четверти</strong><br>Итогом работы вашей команды под руководством ментора станет прототип сервиса на основе данных исследования и&nbsp;требований заказчика.</p>
+<ul>
+    <li>Брифинг + игра в бриф</li>
+    <li>Исследования</li>
+    <li>Формирование низкодетализированного прототипа</li>
+    <li>Промежуточная защита</li>
+    <li>Интерактивный курс</li>
+    <li>Поиск работы</li>
+    <li>Формирование финального прототипа</li>
+    <li>Защита</li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+<h4><strong>Ключевые навыки</strong></h4>
+<ul>
+    <li>Работаю в Figma, Adobe After Effects, Invision, Adobe Illustrator, Power Point, Keynot, Tilda</li>
+    <li>Умею исследовать аудиторию, собирать CJM</li>
+    <li>Создаю интерфейсы на основе ТЗ заказчика и результатов исследований</li>
+    <li>Разрабатываю и тестирую прототипы</li>
+    <li>Знаю основы HTML/CSS-верстки и JavaScript</li>
+</ul>1c:T8be,<h4><strong>Кому подойдет курс</strong></h4>
+<ul>
+    <li><strong>Тем, кто хочет освоить творческую профессию с нуля</strong><br>Вы получите все необходимые инструменты для быстрого старта в профессии UX/UI-дизайнер, научитесь мыслить и действовать креативно и соберёте портфолио, которое впечатлит работодателей.</li>
+    <li><strong>Тем, кто хочет сменить рутину на&nbsp;креативные задачи</strong><br>Вы освоите востребованную профессию дизайнера интерфейсов и получите новые возможности для реализации идей. Научитесь проводить исследования, работать с Tilda и сможете создавать крутые интерфейсы с нуля, опираясь на опыт пользователей.</li>
+    <li><strong>Тем, кто хочет стать фрилансером и&nbsp;работать на себя</strong><br>Вы узнаете, как разрабатывать цифровые продукты от идеи до&nbsp;готового макета, разберетесь в&nbsp;бизнес-требованиях, сможете проводить исследования и работать с&nbsp;гипотезами. А еще – находить клиентов и работать без офиса из&nbsp;любой точки мира.</li></ul><h4><strong>Ключевые навыки</strong></h4>
+<ul>
+    <li>Работаю в Figma, Adobe After Effects, Invision, Adobe Illustrator, Power Point, Keynot, Tilda</li>
+    <li>Умею исследовать аудиторию, собирать CJM</li>
+    <li>Создаю интерфейсы на основе ТЗ заказчика и результатов исследований</li>
+    <li>Разрабатываю и тестирую прототипы</li>
+    <li>Знаю основы HTML/CSS-верстки и JavaScript</li></ul>1d:T26f0,<h4><strong>Кому подойдёт этот курс</strong></h4>
+<ul>
+    <li><strong>Новичкам в дизайне</strong><br>С нуля разберётесь в UX-дизайне, научитесь анализировать пользователей, создавать макеты и делать крутые продукты — начнёте карьеру в UX.</li>
+    <li><strong>Начинающим специалистам</strong><br>Углубите знания в UX-дизайне, узнаете о новых приёмах и последних тенденциях рынка. Повысите свою квалификацию и сможете зарабатывать больше.</li>
+    <li><strong>Дизайнерам из других сфер</strong><br>Поймёте специфику UX-дизайна, научитесь проектировать интерфейсы, работать с аналитикой и дополните портфолио проектом для крупной компании.</li>
+</ul>
+<p>&nbsp;<br></p>
+<h4><strong>Чему вы научитесь</strong></h4>
+<ol>
+    <li><strong>Создавать удобные интерфейсы</strong><br>Сможете разрабатывать крутой дизайн интерфейсов и создавать впечатляющую интерфейсную графику.</li>
+    <li><strong>Проектировать опыт пользователя</strong><br>Научитесь проводить исследования аудитории и рынка, делать юзабилити-тестирование и адаптировать продукт под мобильные устройства.</li>
+    <li><strong>Разрабатывать дизайн сайтов</strong><br>Разберётесь в трендах веб-дизайна: освоите метод декомпозиции, типографику, способы визуализации данных и работу с сеткой.</li>
+    <li><strong>Делать рабочие прототипы в Figma</strong><br>Узнаете, как настраивать артборды, быстро создавать макеты для устройств с разным разрешением и готовить их для вёрстки.</li>
+    <li><strong>Работать с заказчиками</strong><br>Научитесь понимать потребности бизнеса, брифовать клиента и презентовать готовые проекты заказчику.</li>
+    <li><strong>Разбираться в сервисном и продуктовом дизайне</strong><br>Поймёте, какие особенности есть в работе над продуктом. Научитесь создавать эффективный дизайн и взаимодействовать с разработчиками.</li>
+</ol>
+<p>&nbsp;<br></p>
+<h4>Программа курса</h4>
+<ol>
+    <li><strong>Веб-дизайн с нуля</strong><br>Вы научитесь создавать дизайн сайтов и приложений, работать с реальными заказчиками и презентовать свои проекты.</li>
+</ol>
+<ul>
+    <li>Введение и первый результат.</li>
+    <li>Тренды в дизайне. Подготовка к работе и создание мудбордов.</li>
+    <li>Работа со стилями. Создание GUI.</li>
+    <li>Главная страница, первые шаги.</li>
+    <li>Основы работы с графикой.</li>
+    <li>Декомпозиция.</li>
+    <li>Навигация и структура.</li>
+    <li>Интересная подача информации.</li>
+    <li>Формы и кнопки.</li>
+    <li>Адаптивность и мобильная версия.</li>
+    <li>Цвета, атмосфера, настроение. Промостраница мероприятия.</li>
+    <li>Декомпозиция промостраницы.</li>
+    <li>3D-элементы в Photoshop.</li>
+    <li>Разработка презентации проекта.</li>
+    <li>Передача проекта в вёрстку.</li>
+    <li>Первый кейс на Behance.</li>
+    <li>Бонус-модуль. Введение в вёрстку.</li>
+</ul>
+<ol start="2">
+    <li><strong>Figma</strong><br>Вы освоите популярный сервис для разработки интерфейсов Figma. Сможете создавать дизайн-проекты, делать прототипы и использовать этот инструмент для командной работы.</li>
+</ol>
+<ul>
+    <li>Введение в Figma. Обзор возможностей.</li>
+    <li>Работа с графикой.</li>
+    <li>Редактор Figma: модульные сетки и монтажные области.</li>
+    <li>Создание и настройка компонентов, работа с эффектами.</li>
+    <li>Создание вложенных компонентов. Auto Layout.</li>
+    <li>Организация рабочего пространства компонентов и стилей. Командная работа, контроль версий и передача макетов в разработку.</li>
+    <li>Прототипирование.</li>
+    <li>Figma Animate.</li>
+    <li>Бонус-модуль. Обзор и применение Figma plugins.</li>
+</ul>
+<ol start="3">
+    <li><strong>UX-дизайн</strong><br>Вы узнаете, как проводить UX-исследования и проектировать удобные интерфейсы. Научитесь создавать сайты и приложения, которые точно понравятся пользователям.</li>
+</ol>
+<ul>
+    <li>Профессия дизайнера в эпоху цифровых перемен.</li>
+    <li>Основные этапы работы над проектом.</li>
+    <li>Service design: теория и практика.</li>
+    <li>UX-проектирование. Паттерны и психология пользователя.</li>
+    <li>Бонус. Эффектный кейс в 20 000 пикселей высоты.</li>
+    <li>UX-проектирование. Исследование интерфейсов.</li>
+    <li>Data driven design: теория и практика.</li>
+    <li>Бонус. Дизайн-концепция за 60 минут.</li>
+    <li>Concept design: творчество в дизайне.</li>
+    <li>Бонус. Создание рабочего UI-кита.</li>
+    <li>Visual design: теория и практика.</li>
+    <li>Бонус. Анимация интерфейсных элементов.</li>
+    <li>Техника успешной презентации.</li>
+    <li>Отраслевая специфика.</li>
+    <li>Бонус. Как дизайнеру переехать в NY.</li>
+    <li>Разбор кейсов из практики «1С-Битрикс» и «Битрикс24» — разработка дизайна сайта, продуктов и единой экосистемы интерфейсов.</li>
+    <li>Разбор кейсов из практики: Госуслуги — проектирование и дизайн интерфейсов.</li>
+    <li>Разбор кейсов из практики: «НТВ-плюс» — разработка и развитие сайта.</li>
+    <li>Карьера дизайнера.</li>
+</ul>
+<ol start="4">
+    <li><strong>Сервисный дизайн и клиентский опыт</strong><br>Вы изучите основы сервисного мышления и получите базовые навыки сервис-дизайнера. Сможете создавать продукты и вовлекающие пользовательские сценарии, которые решают задачи бизнеса и улучшают его взаимодействие с клиентами.</li>
+</ol>
+<ul>
+    <li>Сервисный дизайн</li>
+    <li>Роль сервисного дизайнера</li>
+    <li>Виды пользовательских путей Journey Mapping</li>
+    <li>Измерения пользовательских путей</li>
+    <li>Фиджитал-интерфейсы</li>
+    <li>Принципы вовлечения пользователей</li>
+    <li>Сервисные слои</li>
+    <li>Механики удержания</li>
+    <li>Мотивы перехода</li>
+    <li>Принцип MAYA</li>
+    <li>Service Design Blueprint</li>
+    <li>Проектирование через противоречия</li>
+    <li>Employee Experience Frame</li>
+    <li>Сервисная лаборатория</li>
+    <li>Инструменты развития сервисного мышления</li>
+</ul>
+<p>&nbsp;<br></p>
+<h4>Профессиональные навыки:</h4>
+<ul>
+    <li>Аналитика, оценка проекта, написание ТЗ</li>
+    <li>Проведение юзабилити-тестов</li>
+    <li>Проведение А/B-тестирований</li>
+    <li>Создание прототипов и макетов в Figma</li>
+    <li>Составление Customer Journey Maps</li>
+    <li>Проектирование интерфейсов и разработка сайтов</li>
+    <li>Разработка дизайна под разные устройства</li>
+    <li>Презентация проекта клиенту</li>
+</ul>1e:Tbce,<h4><strong>Кому подойдёт этот курс</strong></h4>
+<ul>
+    <li><strong>Новичкам в дизайне</strong><br>С нуля разберётесь в UX-дизайне, научитесь анализировать пользователей, создавать макеты и делать крутые продукты — начнёте карьеру в UX.</li>
+    <li><strong>Начинающим специалистам</strong><br>Углубите знания в UX-дизайне, узнаете о новых приёмах и последних тенденциях рынка. Повысите свою квалификацию и сможете зарабатывать больше.</li>
+    <li><strong>Дизайнерам из других сфер</strong><br>Поймёте специфику UX-дизайна, научитесь проектировать интерфейсы, работать с аналитикой и дополните портфолио проектом для крупной компании.</li>
+</ul>
+<p>&nbsp;<br></p>
+<h4><strong>Чему вы научитесь</strong></h4>
+<ol>
+    <li><strong>Создавать удобные интерфейсы</strong><br>Сможете разрабатывать крутой дизайн интерфейсов и создавать впечатляющую интерфейсную графику.</li>
+    <li><strong>Проектировать опыт пользователя</strong><br>Научитесь проводить исследования аудитории и рынка, делать юзабилити-тестирование и адаптировать продукт под мобильные устройства.</li>
+    <li><strong>Разрабатывать дизайн сайтов</strong><br>Разберётесь в трендах веб-дизайна: освоите метод декомпозиции, типографику, способы визуализации данных и работу с сеткой.</li>
+    <li><strong>Делать рабочие прототипы в Figma</strong><br>Узнаете, как настраивать артборды, быстро создавать макеты для устройств с разным разрешением и готовить их для вёрстки.</li>
+    <li><strong>Работать с заказчиками</strong><br>Научитесь понимать потребности бизнеса, брифовать клиента и презентовать готовые проекты заказчику.</li>
+    <li><strong>Разбираться в сервисном и продуктовом дизайне</strong><br>Поймёте, какие особенности есть в работе над продуктом. Научитесь создавать эффективный дизайн и взаимодействовать с разработчиками.</li></ol>1f:T3b39,<h4><strong>Кому подойдёт этот курс</strong></h4>
+<ul>
+    <li><strong>Новичкам в UX/UI-дизайне</strong><br>Научитесь с&nbsp;нуля разрабатывать интерфейсы. Узнаете, как решать проблемы пользователей с&nbsp;помощью дизайна. Сможете стать востребованным специалистом.</li>
+    <li><strong>Джуниор-дизайнерам</strong><br>Узнаете, как анализировать путь пользователей и&nbsp;улучшать свои проекты на&nbsp;основе полученных данных. Сможете выйти на&nbsp;новый уровень&nbsp;— станете middle или senior-специалистом.</li>
+    <li><strong>Опытным дизайнерам</strong><br>Получите навыки в&nbsp;продуктовом и&nbsp;UX-дизайне, заполните пробелы в&nbsp;знаниях. Сможете создавать прототипы приложений и&nbsp;повысить стоимость своей работы.</li>
+</ul>
+<p>&nbsp;<br></p>
+<h4><strong>Чему вы научитесь</strong></h4>
+<ol>
+    <li><strong>Проектировать интерфейсы</strong><br>Научитесь визуализировать прототипы, создавать анимацию, кнопки, слайдеры. Сможете проектировать удобные интерфейсы по&nbsp;правилам юзабилити.</li>
+    <li><strong>Проводить UX-исследования</strong><br>Узнаете, как создавать дизайн на&nbsp;основе данных, научитесь проводить юзабилити- и&nbsp;A/B-тесты. Сможете создавать продукты, которые будут решать проблемы пользователя.</li>
+    <li><strong>Работать в Figma</strong><br>Освоите программу на&nbsp;профессиональном уровне. Сможете создавать дизайн-макеты разной сложности и&nbsp;адаптировать их&nbsp;под любые устройства.</li>
+    <li><strong>Улучшать опыт пользователя</strong><br>Научитесь проводить интервью с&nbsp;целевой аудиторией и&nbsp;строить пути пользователей. Сможете дорабатывать и&nbsp;улучшать свои проекты.</li>
+    <li><strong>Развивать продукты на основе данных</strong><br>Поймёте, как анализировать метрики продукта: распознавать проблемы и&nbsp;находить точки роста. Сможете осмысленно развивать продукт.</li>
+    <li><strong>Общаться с клиентом</strong><br>Научитесь использовать мудборды и&nbsp;UI-киты для быстрого согласования проектов. Узнаете, как представить продукт в&nbsp;выгодном свете и&nbsp;обосновать стоимость своих услуг.</li>
+</ol>
+<p>&nbsp;<br></p>
+<h4><strong>Программа&nbsp;</strong><strong>курса</strong></h4>
+<p><strong>Основные курсы</strong></p>
+<ol>
+    <li><strong>Figma 2.0</strong><br>Вы на профессиональном уровне освоите самую популярную программу для веб-дизайна. Научитесь создавать интерактивные прототипы, передавать макеты разработчикам и экономить время на рутинных задачах.<br>
+        <ol>
+            <li>Интерфейс Figma</li>
+            <li>Работа с графикой</li>
+            <li>Модульные сетки и монтажные области</li>
+            <li>Настройка компонентов и работа с эффектами</li>
+            <li>Создание вложенных компонентов. Auto Layout</li>
+            <li>Командная работа, контроль версий и передача макета в разработку</li>
+            <li>Прототипирование</li>
+            <li>Анимация макетов</li>
+            <li>Бонус-модуль. Figma plugins</li>
+        </ol>
+    </li>
+    <li><strong>Веб-дизайн с нуля на Figma</strong><br>Вы научитесь создавать дизайн для сайтов, лендингов, презентаций и мобильных приложений. Поймёте, как презентовать свою работу заказчику. Сделаете первую работу для портфолио.<br>
+        <ol>
+            <li>Введение и первый результат</li>
+            <li>Бонус-модуль. Горячие клавиши</li>
+            <li>Тренды, подготовка, мудборды</li>
+            <li>Работа со стилями. Создание GUI</li>
+            <li>Главная страница. Первые шаги</li>
+            <li>Основы работы с графикой</li>
+            <li>Бонус-модуль. Личное позиционирование</li>
+            <li>Декомпозиция</li>
+            <li>Навигация и структура</li>
+            <li>Интересная подача информации</li>
+            <li>Формы и кнопки</li>
+            <li>Адаптивность и мобильная версия</li>
+            <li>Цвета и настроение. Промостраница мероприятия</li>
+            <li>Личное позиционирование</li>
+            <li>Концептуальный дизайн</li>
+            <li>Введение в UX</li>
+            <li>Портреты пользователей и CJM</li>
+            <li>Иконки</li>
+            <li>Типографика PRO</li>
+        </ol>
+    </li>
+    <li><strong>UX-дизайнер с нуля до PRO</strong><br>Поймёте, как делать удобные и понятные интерфейсы, опираясь на исследования. Создадите пять работ для портфолио на основе заданий от компаний: YouMeal, Сбербанк, «Домодедово», «Детский мир», «Альфа-Банк». Узнаете, как аргументировать свои решения заказчику.<br>
+        <ol>
+            <li>Профессия дизайнера в эпоху цифровых перемен</li>
+            <li>Дизайн-мышление</li>
+            <li>UX-проектирование. Паттерны и психология пользователей</li>
+            <li>Бонус-модуль. Удобный интерфейс</li>
+            <li>Основы юзабилити</li>
+            <li>Юзабилити-тестирование</li>
+            <li>Сервисный дизайн</li>
+            <li>Формы и UX-исследования</li>
+            <li>Бонус-модуль. Кейс по сервисному дизайну</li>
+            <li>Бонус-модуль. Проектирование CRM-систем</li>
+            <li>E-commerce</li>
+            <li>UI или визуальная концепция</li>
+            <li>Бонус-модуль. Дизайн-системы и паттерны</li>
+            <li>Мобильный UX/UI</li>
+            <li>Текст в интерфейсе</li>
+            <li>Бонус-модуль. Анимация элементов интерфейса</li>
+            <li>Бонус-модуль. Проектирование для юридических лиц</li>
+            <li>Дизайн на основе данных</li>
+            <li>Бонус-модуль. A/B-тесты</li>
+            <li>Бонус-модуль. Работа над проектом</li>
+            <li>Успешная презентация</li>
+            <li>Бонус-модуль. UX + Agile</li>
+            <li>Карьера в UX</li>
+        </ol>
+    </li>
+</ol>
+<p><strong>Дополнительные курсы</strong></p>
+<ol>
+    <li><strong>Сервисный дизайн</strong><br>Вы научитесь создавать сложные интерфейсы и сервисы на основе пользовательских исследований. Узнаете, как управлять продуктом и корпоративными сервисами.<br>
+        <ol>
+            <li>Что такое сервисный дизайн</li>
+            <li>Роль сервисного дизайнера</li>
+            <li>Виды Customer Journey Map</li>
+            <li>Измерения пользовательских путей</li>
+            <li>Фиджитал-интерфейсы</li>
+            <li>Принципы вовлечения пользователей</li>
+            <li>Сервисные слои</li>
+            <li>Механики удержания</li>
+            <li>Бонус-модуль. Мотивы перехода</li>
+            <li>Принцип MAYA</li>
+            <li>Service Design Blueprint</li>
+            <li>Проектирование через противоречия</li>
+            <li>Employee Experience Frame</li>
+            <li>Сервисная лаборатория</li>
+            <li>Инструменты развития сервисного мышления</li>
+        </ol>
+    </li>
+    <li><strong>Продуктовый дизайнер</strong><br>Вы научитесь продумывать бизнес-стратегию, работать с IT-командой, проводить исследования и проектировать дизайн-системы.<br>
+        <ol>
+            <li>Введение</li>
+            <li>Предпроектная работа</li>
+            <li>Исследования</li>
+            <li>Базовое проектирование</li>
+            <li>Специфика платформ</li>
+            <li>Продвинутое проектирование</li>
+            <li>Бонус-модуль. Аптечка продуктового дизайнера № 1</li>
+            <li>Дизайн-теория</li>
+            <li>Дизайн-система</li>
+            <li>Анимации</li>
+            <li>Бонус-модуль. Аптечка продуктового дизайнера № 2</li>
+            <li>Работа в команде</li>
+            <li>Бонус-модуль. Аптечка продуктового дизайнера № 3</li>
+            <li>Передача в разработку</li>
+            <li>Работа с готовым продуктом</li>
+            <li>Бонус-модуль. Аптечка продуктового дизайнера № 4</li>
+        </ol>
+    </li>
+    <li><strong>UX-аналитика для продуктового дизайнера</strong><br>Научитесь собирать данные сайтов и мобильных приложений, проводить интервью и юзабилити-тесты. Сможете проверять гипотезы — и улучшать продукт на основе грамотной аналитики.<br>
+        <ol>
+            <li>Концепции и стратегии развития digital-продукта</li>
+            <li>Data-исследования</li>
+            <li>UX-исследования</li>
+            <li>Формирование и проверка гипотез</li>
+        </ol>
+    </li>
+</ol>
+<p><strong>Инструментальные курсы</strong></p>
+<ol>
+    <li><strong>Photoshop с нуля</strong><br>Вы научитесь работать в Adobe Photoshop с изображениями, текстом и композицией. Освоите одну из самых востребованных программ для дизайнеров и сможете создавать профессиональные макеты, которые понравятся заказчикам.<br>
+        <ol>
+            <li>Введение в Photoshop</li>
+            <li>Инструменты</li>
+            <li>Работа с файлами и изображениями</li>
+            <li>Принципы работы со слоями и масками</li>
+            <li>Бонус-модуль. Выделения и маски</li>
+            <li>Эффекты</li>
+            <li>Продвинутые приёмы обтравки и ретуши</li>
+            <li>Принципы построения растровых изображений</li>
+            <li>Бонус-модуль. Как освоить Pen tool</li>
+            <li>Коллажирование для создания Key-Visual</li>
+            <li>Бонус-модуль. Причиняй добро</li>
+            <li>Бонус-модуль. Оригинальные мемы для социальных сетей</li>
+        </ol>
+    </li>
+    <li><strong>Principle</strong><br>Научитесь добавлять анимацию в макеты и создавать интерактивные прототипы в программе Principle.<ol>
+            <li>Введение.</li>
+            <li>Анимация и её настройки.</li>
+            <li>Скролл, драг и пэйдж.</li>
+            <li>Управление анимацией при помощи драйверов.</li>
+            <li>Разбор проектов из практики AIC.</li>
+            <li>Импорт в рабочий прототип или видео.</li>
+        </ol>
+    </li>
+</ol>
+<p>&nbsp;<br></p>
+<p><strong>Профессиональные навыки:</strong></p>
+<ul>
+    <li>Аналитика и оценка проекта, написание ТЗ</li>
+    <li>Составление Customer Journey Maps</li>
+    <li>Презентация работ клиенту</li>
+    <li>Развитие готового продукта</li>
+    <li>Использование принципов юзабилити</li>
+    <li>Адаптивный дизайн</li>
+    <li>Проведение А/B-тестирований</li>
+    <li>Оценка обратной связи от пользователей</li>
+    <li>UX-аналитика и работа с метриками</li>
+</ul>20:Td48,<h4><strong>Кому подойдёт этот курс</strong></h4>
+<ul>
+    <li><strong>Новичкам в UX/UI-дизайне</strong><br>Научитесь с&nbsp;нуля разрабатывать интерфейсы. Узнаете, как решать проблемы пользователей с&nbsp;помощью дизайна. Сможете стать востребованным специалистом.</li>
+    <li><strong>Джуниор-дизайнерам</strong><br>Узнаете, как анализировать путь пользователей и&nbsp;улучшать свои проекты на&nbsp;основе полученных данных. Сможете выйти на&nbsp;новый уровень&nbsp;— станете middle или senior-специалистом.</li>
+    <li><strong>Опытным дизайнерам</strong><br>Получите навыки в&nbsp;продуктовом и&nbsp;UX-дизайне, заполните пробелы в&nbsp;знаниях. Сможете создавать прототипы приложений и&nbsp;повысить стоимость своей работы.</li>
+</ul>
+<p>&nbsp;<br></p>
+<h4><strong>Чему вы научитесь</strong></h4>
+<ol>
+    <li><strong>Проектировать интерфейсы</strong><br>Научитесь визуализировать прототипы, создавать анимацию, кнопки, слайдеры. Сможете проектировать удобные интерфейсы по&nbsp;правилам юзабилити.</li>
+    <li><strong>Проводить UX-исследования</strong><br>Узнаете, как создавать дизайн на&nbsp;основе данных, научитесь проводить юзабилити- и&nbsp;A/B-тесты. Сможете создавать продукты, которые будут решать проблемы пользователя.</li>
+    <li><strong>Работать в Figma</strong><br>Освоите программу на&nbsp;профессиональном уровне. Сможете создавать дизайн-макеты разной сложности и&nbsp;адаптировать их&nbsp;под любые устройства.</li>
+    <li><strong>Улучшать опыт пользователя</strong><br>Научитесь проводить интервью с&nbsp;целевой аудиторией и&nbsp;строить пути пользователей. Сможете дорабатывать и&nbsp;улучшать свои проекты.</li>
+    <li><strong>Развивать продукты на основе данных</strong><br>Поймёте, как анализировать метрики продукта: распознавать проблемы и&nbsp;находить точки роста. Сможете осмысленно развивать продукт.</li>
+    <li><strong>Общаться с клиентом</strong><br>Научитесь использовать мудборды и&nbsp;UI-киты для быстрого согласования проектов. Узнаете, как представить продукт в&nbsp;выгодном свете и&nbsp;обосновать стоимость своих услуг.</li></ol>9:["$","div",null,{"children":["$","$L14",null,{"page":{"_id":"61c0df56f73c5e9c4133c6ae","tags":["Дизайн мобильных приложений"],"firstCategory":0,"title":"Курсы дизайна мобильных приложений","category":"Дизайн мобильных приложений","alias":"mobile-app-design","secondCategory":"Дизайн","categoryOn":"дизайнера мобильных приложений","tagsTitle":"Навыки","metaTitle":"ТОП-7 курсов дизайна мобильных приложений онлайн | Обучение с нуля (2022)","metaDescription":"Рейтинг лучших курсов дизайна мобильных приложений онлайн в 2022 году. Обучение дизайну для начинающих. Топ бесплатных и платных онлайн курсов для дизайнеров. Отзывы о курсах по дизайну мобильных приложений\n","advantages":[],"qas":[],"addresses":[],"createdAt":"2021-12-20T19:53:58.483Z","updatedAt":"2025-03-31T00:00:16.465Z","__v":0,"hh":{"count":1408,"juniorSalary":5000,"middleSalary":185000,"seniorSalary":305000,"updatedAt":"2025-03-31T00:00:16.465Z","_id":"67e9db10e4763fd4236dde9f"},"blog":{"h1":"Курсы дизайна мобильных приложений: обучение с нуля","metaTitle":"7 Лучших курсов дизайна мобильных приложений онлайн | Обучение с нуля (2022)","metaDescription":"Рейтинг лучших курсов дизайна мобильных приложений онлайн в 2022 году. Обучение для начинающих. Лучшие бесплатные и платные онлайн курсы дизайна мобильных приложений с дипломом и отзывами","views":35,"_id":"61feae5f77ddd78615d7192a"},"sravnikus":{"metaTitle":"Курсы дизайна мобильных приложений онлайн | Обучение с нуля (2022)","metaDescription":"Рейтинг лучших курсов дизайна мобильных приложений онлайн в 2022 году. Обучение дизайну для начинающих. Топ бесплатных и платных онлайн курсов для дизайнеров. Отзывы о курсах по дизайну мобильных приложений\n","qas":[],"_id":"62793c9cfe951fc2260a1825"},"learningclub":{"metaTitle":"7 лучших курсов обучения дизайну мобильных приложений с нуля [2022]","metaDescription":"Лучшие платные и бесплатные курсы дизайна мобильных приложений для начинающих. Онлайн обучение дизайнеров с нуля: Москва, СПб и вся Россия","qas":[],"_id":"628249f90f6d2c0a8f084c74"}},"products":[{"_id":"618d7e97d0b45d35b20b6e07","categories":["UX/UI","Дизайн мобильных приложений"],"tags":["Вебинары по вечерам"],"title":"UI-дизайнер","link":"https://go.avck.ws/5e01ee21cb23acf0","image":"https://old-images.hb.ru-msk.vkcs.cloud/uploads/2021-11-11/netology_white.png","initialRating":4.9,"characteristics":[{"name":"Школа","value":"Нетология"},{"name":"Документ об окончании","value":"Диплом"},{"name":"Сложность","value":"С нуля"},{"name":"Длительность","value":"5.5 месяцев"}],"description":"\nОсвоите веб- и мобильный дизайн\n\nСоздадите свой первый макет сайта\nРазработаете прототип мобильного приложения","price":54900,"oldPrice":91000,"credit":4575,"createdAt":"2021-11-11T20:35:35.289Z","updatedAt":"2022-06-03T05:31:50.892Z","__v":0,"html":"$15","blog":{"text":"$16","_id":"6265c506f831b4b360271e34"},"companyId":"6261b9ef8a88fba484485b35","clicks":3,"reviews":[],"reviewCount":0,"reviewAvg":null},{"_id":"618d7f3dd0b45d68ed0b6f37","categories":["UX/UI","Дизайн мобильных приложений"],"tags":["Вебинары, видеозаписи, практические задания"],"title":"UX-ДИЗАЙНЕР","link":"https://go.avck.ws/14fd8e80aa7b1420","image":"https://old-images.hb.ru-msk.vkcs.cloud/uploads/2021-11-11/netology_white.png","characteristics":[{"name":"Школа","value":"Нетология"},{"name":"Документ об окончании","value":"Диплом"},{"name":"Сложность","value":"С нуля"},{"name":"Длительность","value":"9 месяцев"}],"description":"\nОсвоите алгоритмы UX-исследований и проанализируете пользовательские сценарии\n\nСоздадите интерфейсное решение с учётом потребностей пользователей и бизнеса","initialRating":4.85,"credit":3605,"price":64900,"oldPrice":85000,"createdAt":"2021-11-11T20:38:21.863Z","updatedAt":"2022-06-06T18:54:57.715Z","__v":0,"html":"$17","blog":{"text":"$18","_id":"6265c516f831b4b360271e45"},"companyId":"6261b9ef8a88fba484485b35","clicks":1,"reviews":[],"reviewCount":0,"reviewAvg":null},{"_id":"618d8022d0b45d03b80b6f6a","categories":["UX/UI","Дизайн мобильных приложений"],"tags":[],"title":"UX/UI-дизайнер: расширенный курс","link":"https://go.avck.ws/2c1d254b7402c9c0","initialRating":4.9,"image":"https://old-images.hb.ru-msk.vkcs.cloud/uploads/2021-11-11/netology_white.png","characteristics":[{"name":"Школа","value":"Нетология"},{"name":"Документ об окончании","value":"Диплом"},{"name":"Сложность","value":"С нуля"},{"name":"Длительность","value":"22 месяца"}],"description":"\nОсвойте основные инструменты UX/UI-дизайнера: Figma, Tilda, Cinema 4D\n\nНаучитесь создавать сайты и приложения и добавите 9 проектов в портфолио\n\nПолучите экспертизу от ведущих дизайн-студий: AGIMA, Mish.design, ITECH и «Атвинта» ","price":129250,"credit":3590,"oldPrice":154000,"createdAt":"2021-11-11T20:42:10.752Z","updatedAt":"2022-06-06T18:54:26.527Z","__v":0,"html":"$19","blog":{"text":"$1a","_id":"6265c533f831b4b360271e5e"},"companyId":"6261b9ef8a88fba484485b35","clicks":4,"reviews":[],"reviewCount":0,"reviewAvg":null},{"_id":"618d81d9d0b45d517f0b6fed","categories":["UX/UI","Дизайн мобильных приложений"],"tags":["4 работы в портфолио","Трудоустройство после обучения"],"title":"Факультет дизайна интерфейсов (UX/UI)","link":"https://go.avck.ws/72eed60bee8424c0","image":"https://old-images.hb.ru-msk.vkcs.cloud/uploads/2021-11-11/gb.png","characteristics":[{"name":"Школа","value":"GeekBrains"},{"name":"Документ об окончании","value":"Диплом"},{"name":"Сложность","value":"С нуля"},{"name":"Длительность","value":"15 месяцев"}],"initialRating":5,"description":"Вы научитесь проектировать дизайн интерфейсов, удобных для пользователя и эффективных для бизнеса. А ещё — навсегда попрощаетесь с рутиной, откроете для себя новое творческое направление с чёткими перспективами роста и сможете работать из любой точки мира.","price":139600,"oldPrice":164000,"credit":3878,"createdAt":"2021-11-11T20:49:29.573Z","updatedAt":"2022-06-12T20:23:50.725Z","__v":0,"html":"$1b","blog":{"text":"$1c","_id":"6265c6c9f831b4b360272181"},"companyId":"625d898861f28feba0836c7d","clicks":11,"reviews":[],"reviewCount":0,"reviewAvg":null},{"_id":"618d830dd0b45d16950b703c","categories":["UX/UI","Дизайн мобильных приложений"],"tags":["Первый заработок с 4-го месяца","Помощь в трудоустройстве"],"title":"UX-дизайнер (4 курса)","link":"https://go.avck.ws/28d46786e2aa2e00","image":"https://old-images.hb.ru-msk.vkcs.cloud/uploads/2021-11-11/skillbox.png","characteristics":[{"name":"Школа","value":"SkillBox"},{"name":"Документ об окончании","value":"Диплом"},{"name":"Сложность","value":"С нуля"},{"name":"Длительность","value":"10 месяцев"}],"description":"Вы научитесь создавать крутой дизайн, разрабатывать удобные интерфейсы — и станете востребованным специалистом в UX.","initialRating":4.6,"price":105600,"oldPrice":131000,"credit":4802,"createdAt":"2021-11-11T20:54:37.740Z","updatedAt":"2022-06-07T08:36:43.297Z","__v":0,"html":"$1d","blog":{"text":"$1e","_id":"6265c6e5f831b4b360272191"},"companyId":"6261b9ae8a88fba484485a84","clicks":2,"reviews":[],"reviewCount":0,"reviewAvg":null},{"_id":"618d83d2d0b45dba240b7051","categories":["UX/UI","Дизайн мобильных приложений"],"tags":["Помощь в трудоустройстве","5 проектов в портфолио"],"title":"Профессия UX/UI-дизайнер","link":"https://go.avck.ws/93e37c74f97ec310","image":"https://old-images.hb.ru-msk.vkcs.cloud/uploads/2021-11-11/skillbox.png","characteristics":[{"name":"Школа","value":"SkillBox"},{"name":"Документ об окончании","value":"Диплом"},{"name":"Сложность","value":"С нуля"},{"name":"Длительность","value":"12 месяцев"}],"description":"Вы научитесь делать веб-сайты, разрабатывать удобные интерфейсы и решать проблемы пользователей. Сможете создавать впечатляющий дизайн и освоите новую профессию.","price":157000,"initialRating":4.6,"credit":5067,"oldPrice":184000,"createdAt":"2021-11-11T20:57:54.122Z","updatedAt":"2022-05-20T18:23:37.143Z","__v":0,"html":"$1f","blog":{"text":"$20","_id":"6265c6f7f831b4b36027219c"},"companyId":"6261b9ae8a88fba484485a84","reviews":[],"reviewCount":0,"reviewAvg":null}]}]}]
